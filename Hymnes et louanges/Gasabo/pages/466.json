@@ -1,0 +1,56 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Laisse ta folie,",
+				"Enfant égaré;",
+				"Reviens à la vie,",
+				"Sois délivré."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Âme prisonnière,",
+				"Pense à la maison",
+				"De ton Dieu, ton Père,",
+				"Crois au pardon."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Tu t'en vas sans joie,",
+				"Sans Dieu, sans ami;",
+				"Ton âme est la proie",
+				"De l'ennemi."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Saisis la main forte",
+				"De Christ, le Sauveur,",
+				"Le don qu'il t'apporte,",
+				"C'est le bonheur."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Le sang du calvaire",
+				"Couvre ton passé,",
+				"Brise l'adversaire,",
+				"Cruel, rusé."
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"À la sainte fête",
+				"Par Christ introduit,",
+				"Là, ta place est prête,",
+				"Tout près de lui."
+			]
+		}
+	]
+}
+

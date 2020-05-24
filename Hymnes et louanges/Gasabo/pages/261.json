@@ -1,0 +1,46 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Nous allons tout joyeux au pays de la vie,",
+				"Au pays du bonheur, au royaume d'amour.",
+				"Vous qui marchez encor sans Dieu, dans la folie,",
+				"Oh! Dites, voulez-vous y venir dès ce jour?"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Voulez-vous, voulez-vous y venir dès ce jour?",
+				"Oh! Voulez-vous venir à ce Dieu plein d'amour?"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Dans cet heureux séjour, les soupirs de la terre",
+				"N'altéreront jamais un bonheur infini.",
+				"Vous tous qui languissez sans paix, dans la misère,",
+				"Oh! Dites, voulez-vous y venir aujourd'hui?"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Là, plus de pauvreté, mais pour tous la richesse,",
+				"L'héritage de gloire avec le Dieu d'amour;",
+				"Jamais plus de péché, jamais plus de tristesse.",
+				"Oh! Dites, voulez-vous y venir dès ce jour?"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Venez, pauvres pécheurs, le Seigneur vous appelle!",
+				"Pourquoi dire : demain, quand Dieu dit : aujourd'hui?",
+				"Le bonheur ici-bas et la vie éternelle,",
+				"Voilà ce qu'il promet à ceux qui vont à lui."
+			]
+		}
+	]
+}
+

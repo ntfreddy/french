@@ -1,0 +1,56 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Ah! Donne à mon âme",
+				"Plus de sainteté",
+				"Plus d'ardente flamme,",
+				"De sérénité.",
+				"Plus de confiance,",
+				"Pour rester debout",
+				"Plus de patience,",
+				"Pour supporter tout!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Fais que je contemple",
+				"Sans cesse l'Agneau,",
+				"Son vivant exemple,",
+				"Sa croix, son tombeau;",
+				"Sa grâce fidèle,",
+				"Son immense amour,",
+				"Sa gloire éternelle,",
+				"Son prochaine retour!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Jésus, à mes larmes",
+				"Tu veux compatir;",
+				"De toutes tes armes",
+				"Viens me revêtir;",
+				"Par plus de prières,",
+				"De zèle et de foi,",
+				"Que dans la lumière",
+				"Je marche avec toi!"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Donne à ton service",
+				"Un coeur plus joyeux,",
+				"Prompt au sacrifice,",
+				"Toujours sous tes yeux;",
+				"Qui chante et qui tremble,",
+				"Humble en sa faveur,",
+				"Un coeur qui ressemble",
+				"Au tien, mon Sauveur."
+			]
+		}
+	]
+}
+

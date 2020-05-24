@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"À toi nos transports d'allégresse",
+				"À toi, Seigneur, nos plus beaux chants,",
+				"À toi nos rêves de jeunesse,",
+				"À toi les fleurs de nos printemps!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Gloire, honneur, sagesse et puissance",
+				"Au Dieu qui nous a tant aimés,",
+				"Richesse, force, obéissance",
+				"À l'agneau qui nous a sauvés!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"À toi nos élans juveniles,",
+				"Nos frais bonheurs, nos saints désirs,",
+				"Les gerbes de nos champs fertiles,",
+				"Nos durs labeurs, nos purs loisirs!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"À toi pour publier ta grâce",
+				"Et pour couronner Jésus Roi,",
+				"Revêtus de la sainte audace",
+				"Des vaillants héros de la foi!"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Sois le centre de notre vie.",
+				"Vis au tréfonds de notre coeur,",
+				"Et toujours notre âme affranchie",
+				"Chantera son libérateur!"
+			]
+		}
+	]
+}
+

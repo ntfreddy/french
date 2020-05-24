@@ -1,0 +1,44 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Nul n'est trop petit",
+				"Pour la route étroite,",
+				"Quand le Seigneur l'y conduit,",
+				"Marchant à sa droite.",
+				"Même le plus jeune coeur",
+				"Peut être un temple au Seigneur.",
+				"Même le plus jeune coeur",
+				"Peut être un temple au Seigneur."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Ce sont aussi les petits",
+				"Que Jésus convie,",
+				"Et dont les noms sont écrits",
+				"Au livre de vie.",
+				"Dans les parvis éternels,",
+				"Dieu reçoit ceux qui sont tels.",
+				"Dans les parvis éternels,",
+				"Dieu reçoit ceux qui sont tels."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Puis, dans les concerts des cieux,",
+				"Les voix enfantines",
+				"Uniront leurs chants joyeux",
+				"Aux hymnes divines.",
+				"Petits et grands, d'un seul coeur,",
+				"Loûront alors le Seigneur.",
+				"Petits et grands, d'un seul coeur,",
+				"Loûront alors le Seigneur."
+			]
+		}
+	]
+}
+

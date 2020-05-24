@@ -1,0 +1,54 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Le Maître est là qui tappelle;",
+				"Lève-toi donc, ô pécheur!",
+				"Réponds à sa voix fidèle;",
+				"Cest ton Dieu, cest ton Sauveur."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Viens à lui, viens à lui,",
+				"Viens à Jésus aujourdhui!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Ah! pourquoi le faire attendre?",
+				"Depuis trop longtemps déjà",
+				"Tu refuses de lentendre;",
+				"Ne tarde plus : il est là."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Il est là, toffrant sa grâce,",
+				"Son pardon, sa sainteté,",
+				"Sa paix qui jamais ne passe,",
+				"Son ciel, sa félicité."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Sa main vers toi sest tendue,",
+				"Son coeur souvre avec amour;",
+				"Hâte-toi, brebis perdue.",
+				"Viens sans délai, sans détour."
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Le Maître est là qui tappelle,",
+				"Mais bientôt il passera.",
+				"Réponds à sa voix fidèle,",
+				"Avant quil ne soit plus là."
+			]
+		}
+	]
+}
+

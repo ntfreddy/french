@@ -1,0 +1,46 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Entre tes mains, j'abandonne",
+				"Tout ce que j'appelle mien,",
+				"Oh, ne permets à personne",
+				"Seigneur d'en reprendre rien.",
+				"Oui, prends tout, Seigneur!",
+				"Oui, prends tout, Seigneur!",
+				"Entre tes mains, j'abandonne",
+				"Tout avec bonheur."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Je n'ai pas peur de te suivre",
+				"Sur le chemin de la croix.",
+				"C'est pour Toi que je veux vivre",
+				"Je connais, j'aime ta voix.",
+				"Oui, prends tout, Seigneur!",
+				"Oui, prends tout, Seigneur!",
+				"Sans rien garder, je te livre",
+				"Tout avec bonheur."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Prends mon corps ",
+				"Et prends mon âme,",
+				"Que tout en moi soit à Toi!",
+				"Que par ta divine flamme",
+				"Tout mal soit détruit en moi!",
+				"Oui, prends tout, Seigneur!",
+				"Oui, prends tout, Seigneur!",
+				"Prends mon corps",
+				"Et prends mon âme,",
+				"Règne sur mon coeur."
+			]
+		}
+	]
+}
+

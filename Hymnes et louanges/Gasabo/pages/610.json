@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Je veux pécheur sauvé par grâce,",
+				"Exalter Jésus en ce jour,",
+				"De son sang dire lefficace,",
+				"Chanter son ineffable amour."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Sur la croix Jésus a porté",
+				"Le poids de mes iniquités;",
+				"À lui je mabandonne enfin,",
+				"Pour être à ce Sauveur divin."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Je cherchais, luttais avec larmes,",
+				"Je voulais vaincre, mais en vain;",
+				"Quand, lassé, je rendis les armes,",
+				"La paix brilla sur mon chemin."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Sur moi posant sa main bénie,",
+				"Il me lava complètement,",
+				"Et mon âme trouva la vie :",
+				"Sa justice est mon vêtement."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Le Prince de paix passe encore,",
+				"En cet instant pour me bénir,",
+				"Et dans mon âme a lui laurore",
+				"Dun beau jour qui ne peut finir."
+			]
+		}
+	]
+}
+

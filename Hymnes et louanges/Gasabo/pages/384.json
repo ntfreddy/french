@@ -1,0 +1,44 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Viens, âme qui pleures,",
+				"Viens à ton Sauveur;",
+				"Dans tes tristes heures,",
+				"Dis-lui ta douleur;",
+				"Dis tout bas ta plainte",
+				"Au Seigneur Jésus,",
+				"Parle-lui sans crainte,",
+				"Et ne pleure plus."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Dis tout à ce frère,",
+				"À ce tendre ami,",
+				"Ton épreuve amère,",
+				"Ton deuil, ton souci.",
+				"Il aime, il console",
+				"Les coeurs abattus;",
+				"Crois à sa parole,",
+				"Et ne pleure plus."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Aux coeurs en détresse,",
+				"Ployant sous le faix,",
+				"Dis que Dieu les presse",
+				"De chercher sa paix.",
+				"Calme leurs alarmes,",
+				"Ois-leur que Jésus",
+				"À séché nos larmes...",
+				"Va, ne pleure plus."
+			]
+		}
+	]
+}
+

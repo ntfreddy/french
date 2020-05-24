@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"Choeur",
+			"lines":[
+				"À toi ma vie!",
+				"Seigneur, qui m'as fait voir",
+				"Ta croix bénie",
+				"Où j'ai trouvé l'espoir."
+			]
+		},
+		{"label":"1",
+			"lines":[
+				"Si tu m'offrais ta grâce,",
+				"Même au plus grand pécheur,",
+				"Hélas! devant ta face",
+				"Tremblant serait mon coeur."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Je connais ma misère,",
+				"Mes fautes, mon péché;",
+				"Mais Jésus, comme un frère,",
+				"C'est toi qui m'as cherché!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Pardonne mon offense,",
+				"Et subviens à ma foi!",
+				"Du mal, de sa puissance,",
+				"Ô Christ, délivre-moi!"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Consacre-moi toi-même,",
+				"C'est mon plus cher désir!",
+				"Je t'appartiens, je t'aime",
+				"Et je veux te servir."
+			]
+		}
+	]
+}
+

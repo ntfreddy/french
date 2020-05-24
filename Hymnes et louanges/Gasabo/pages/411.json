@@ -1,0 +1,56 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Que ta lumière,",
+				"Dès le matin,",
+				"Luise, ô bon Père!",
+				"Sur mon chemin.",
+				"Oh! vivifie",
+				"Dès maintenant",
+				"Et sanctifie",
+				"Ton cher enfant."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Sauveur fidèle,",
+				"Livré pour moi,",
+				"Ta voix m'appelle,",
+				"Je viens à toi;",
+				"À ma faiblesse",
+				"Pense aujourd'hui;",
+				"Dans la détresse",
+				"Sois mon appui."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Donne à mon âme,",
+				"Jour après jour,",
+				"La pure flamme",
+				"De ton amour.",
+				"Qu'elle conduise",
+				"Auprès de toi",
+				"L'âme indécise",
+				"Qui vit sans foi."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Toute ma joie,",
+				"Ô mon Sauveur!",
+				"C'est que l'on voie",
+				"Ton nom vainqueur;",
+				"C'est que l'impie,",
+				"Sauvé par toi,",
+				"Enfin s'écrie :",
+				"«Je suis à toi !»"
+			]
+		}
+	]
+}
+

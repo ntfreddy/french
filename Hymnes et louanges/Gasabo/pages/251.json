@@ -1,0 +1,40 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Pour nous la vie est un voyage,",
+				"Nous marchons au séjour divin;",
+				"Déjà nous voyons le rivage,",
+				"Notre épreuve touche à sa fin..."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Amis, à la terre nouvelle,",
+				"Voulez-vous venir avec nous?",
+				"Hâtez-vous, Jésus nous appelle,",
+				"Oh! venez, pourquoi tardez-vous?"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Oh! puisque Jésus nous invite",
+				"Dans son doux, ineffable amour,",
+				"Suivons-le, suivons-le bien vite,",
+				"Marchons au céleste séjour."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Et si parfois lépreuve amère",
+				"Accable nos coeurs abattus,",
+				"Pensons à la nouvelle terre,",
+				"Pensons à lamour de Jésus."
+			]
+		}
+	]
+}
+

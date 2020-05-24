@@ -1,0 +1,60 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Quel grand secours",
+				"D'être toujours",
+				"Protégé par Dieu même!",
+				"Ne craignons rien!",
+				"Il fait tout bien;",
+				"Il nous garde, Il nous aime!",
+				"Ne craignons rien!",
+				"Il fait tout bien;",
+				"Il nous garde, Il nous aime!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"II dit « Je veux",
+				"Vous rendre heureux;",
+				"Laissez-moi tout conduire.",
+				"Si je vous prends",
+				"Pour mes enfants,",
+				"Rien ne pourra vous nuire. ",
+				"Si je vous prends",
+				"Pour mes enfants,",
+				"Rien ne pourra vous nuire. »"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Pour aujourd'hui",
+				"Comptons sur lui;",
+				"Il nous garde, il nous aime.",
+				"Quant à demain,",
+				"Sa bonne main",
+				"Y pourvoira de même.",
+				"Quant à demain,",
+				"Sa bonne main",
+				"Y pourvoira de même."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Quel grand secours",
+				"D'être toujours",
+				"Sous l'oeil du Dieu suprême!",
+				"Ne craignons rien!",
+				"Notre soutien,",
+				"C'est l'Éternel lui-même.",
+				"Ne craignons rien!",
+				"Notre soutien,",
+				"C'est l'Éternel lui-même."
+			]
+		}
+	]
+}
+

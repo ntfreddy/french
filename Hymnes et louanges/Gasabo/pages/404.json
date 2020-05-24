@@ -1,0 +1,54 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Matelots, en voyage",
+				"Vers le bord éternel,",
+				"S'il survient un orage,",
+				"Pensons au doux rivage; ( bis)"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Notre port, (bis) est au ciel;",
+				"Notre port, (bis) est au ciel;",
+				"Notre port est au ciel! (bis) "
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Que rien ne nous dérive",
+				"Vers les biens temporels,",
+				"Leur paix est fugitive;",
+				"Ne cherchons qu'une rive; ( bis)"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Sur Jésus, douce étoile",
+				"D'un éclat immortel,",
+				"Que jamais rien ne voile,",
+				"Dirigeons notre voile; (bis)"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"À celui qu'il seconde",
+				"D'un regard fraternel,",
+				"Que fait le vent ou l'onde?",
+				"En vain l'océan gronde; (bis)"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Quand le port, (bis) est au ciel;",
+				"Quand le port, (bis) est au ciel;",
+				"Quand le port est au ciel! (bis) "
+			]
+		}
+	]
+}
+

@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Doué du langage des anges,",
+				"En vain, Seigneur, de tes louanges",
+				"Je remplirais tout l'univers;",
+				"Sans amour, ma gloire n'égale",
+				"Que la gloire de la cymbale",
+				"Qui dun vain bruit frappe les airs. (bis)"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Quand je sonderais les abîmes",
+				"Des mystères les plus sublimes;",
+				"Quand je lirais dans l'avenir",
+				"Sans amour, ma science est vaine,",
+				"Comme le songe dont à peine",
+				"Il reste un léger souvenir. (bis)"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Quand mes mains de mon héritage",
+				"Aux pauvres feraient le partage,",
+				"Quand même, pour le nom chrétien",
+				"Bravant les croix les plus infâmes,",
+				"Je livrerais mon corps aux flammes,",
+				"Si je n'aime, je ne suis rien. (bis)"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Ils cesseront, les saints oracles,",
+				"Le don des langues, les miracles;",
+				"La science aura son déclin :",
+				"L'amour, la charité divine,",
+				"Éternelle en son origine,",
+				"Jamais ne connaîtra de fin. (bis)"
+			]
+		}
+	]
+}
+

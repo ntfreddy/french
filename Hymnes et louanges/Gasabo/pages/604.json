@@ -1,0 +1,65 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Je m'approche de toi,",
+				"Source de vie;",
+				"Mon Sauveur et mon Roi,",
+				"Accepte-moi.",
+				"Viens et parle à mon coeur,",
+				"Ô voix bénie,",
+				"Esprit consolateur,",
+				"Parle, Seigneur!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Parle, Seigneur, (bis)",
+				"Fais silence en mon coeur,",
+				"Parle Seigneur!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Oh! garde dans ta paix",
+				"L'âme meurtrie",
+				"Qui faiblit sous le faix",
+				"Aux jour mauvais.",
+				"Tiens-la bien près de toi,",
+				"Et fortifie",
+				"Sa vacillante foi,",
+				"Ô puissant Roi!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Bien près de toi, (bis) ",
+				"Garde-la, divin Roi, ",
+				"Tout près de toi."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Que dans ton grand amour",
+				"Je me confie,",
+				"Jusqu'au glorieux jour",
+				"De ton retour.",
+				"Et que sur mon chemin,",
+				"Ainsi qu'Élie,",
+				"J'entende : « Ne crains rien,",
+				"Je tiens ta main. »"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"« Je tiens ta main, (bis) ",
+				"Va, reprends ton chemin, ",
+				"Va, ne crains rien. »"
+			]
+		}
+	]
+}
+

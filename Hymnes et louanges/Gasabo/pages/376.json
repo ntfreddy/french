@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Le vent soufflait et faisait rage,",
+				"Tandis qu'avec peine on ramait,",
+				"Insensible au bruit de l'orage,",
+				"Jésus dormait..."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"« Nous périssons! oh, je t'en prie! »",
+				"S'écriait-on tout en émoi;",
+				"Mais il dit à l'onde en furie :",
+				"« Apaise-toi! »"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Le vent cessa; plus de tourmente",
+				"Se déchaînant sous le ciel noir;",
+				"La mer fut calme et transparente",
+				"Comme un miroir."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Quand déferle la vague amère,",
+				"Viens en apaiser le courroux;",
+				"Entends, ô Christ, notre prière",
+				"Et sauve-nous!"
+			]
+		}
+	]
+}
+

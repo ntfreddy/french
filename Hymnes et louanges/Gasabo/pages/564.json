@@ -1,0 +1,44 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Le Seigneur Jésus est mon frère,",
+				"Bonne maman me l'a dit.",
+				"C'est l'ami que je préfère,",
+				"Lui qui toujours compatit.",
+				"Ô bonheur! Ô bonheur!",
+				"Jésus, tu fus l'ami des enfants.",
+				"Ô bonheur! Ô bonheur!",
+				"Jésus, je le sais, tu me comprends."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Tout petit enfant sur la terre,",
+				"Le doux Jésus s'amusait,",
+				"Mais il aimait bien sa mère",
+				"Et toujours obéissait.",
+				"Ô bonheur! Ô bonheur!",
+				"Jésus, tu me rends obéissant,",
+				"Ô bonheur! Ô bonheur!",
+				"Jésus, par ton Esprit tout-puissant."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Après l'enfance, le Calvaire...",
+				"Jésus au ciel est monté.",
+				"Se chargeant de ma misère",
+				"Et m'offrant l'éternité.",
+				"Ô bonheur! Ô bonheur!",
+				"Jésus, tu versas ton sang pour moi.",
+				"Ô bonheur! Ô bonheur!",
+				"Jésus, je veux me donner à toi."
+			]
+		}
+	]
+}
+

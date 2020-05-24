@@ -1,0 +1,49 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Oh! quel beau jour, où, devant ta face,",
+				"Tous tes rachetés apparaîtront,",
+				"En célébrant ta gloire et ta grâce!",
+				"De leurs chants, les cieux retentiront."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Nombreux comme le sable des plages! ",
+				"Nombreux comme le sable des plages!  ",
+				"Oh! que ce sera beau,",
+				"Lorsque nous irons là-haut,",
+				"Aussi nombreux que le sable des plages."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Je la vois, cette armée innombrable,",
+				"Ses rangs reflétant l'éclat des cieux",
+				"Tressaillant d'un bonheur ineffable,",
+				"Sur le seuil du séjour radieux."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"De son trône éclatant de lumière,",
+				"J'entends la douce voix du Seigneur :",
+				"«Venez, vous, bien-aimés de mon Père,",
+				"La couronne est à chaque vainqueur»."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Puis au sein du vaste océan d'anges,",
+				"Nos cohortes déversent leurs flots;",
+				"L'univers tremble au son des louanges;",
+				"Plus de combats, de pleurs, de sanglots."
+			]
+		}
+	]
+}
+

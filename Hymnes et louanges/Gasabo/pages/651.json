@@ -1,0 +1,48 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Saint des saints, tout mon coeur veut s'élever à toi, (bis)",
+				"Tu me dis de chercher le regard de ta face;",
+				"Fais-moi sentir ta puissante efficace; ",
+				"Esprit de Dieu, viens soutenir ma foi. (bis)"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Éternel, par amour tu fus mon Créateur, (bis)",
+				"Mon corps est de ta main le merveilleux ouvrage;",
+				"Mon âme aussi, mon âme est ton image;",
+				"Et pour t'aimer tu me donnas un coeur. (bis)"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Ta bonté m'accueillit an matin de mes jours, (bis)",
+				"Tu veillas au berceau de ma fragile vie;",
+				"Par ta faveur ma route fut choisie, ",
+				"Mille bienfaits en marquèrent le cours. (bis)"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Mais bientôt j'oubliai, Seigneur, ce tendre soin; (bis)",
+				"Trop souvent en mon coeur je méconnus ta grâce,",
+				"Que de mépris, que d'orgueil et d'audace,",
+				"Que de détours dont tu fus le témoin! (bis)"
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Devant toi je rougis et demeure confus; (bis)",
+				"Minis, Seigneur, ta pitié relève ma misère :",
+				"N'as-tu pas mis entre elle et ta colère ",
+				"L'amour, la croix et le sang de Jésus? (bis)"
+			]
+		}
+	]
+}
+

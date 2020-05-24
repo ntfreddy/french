@@ -1,0 +1,52 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"C'est Jésus, quand je chancelle,",
+				"Seul, en mon chemin,",
+				"Qui vient prendre ma main frêle",
+				"Dans sa forte main.",
+				"Tenu par sa main (bis)",
+				"Oui, je suis quand je chancelle",
+				"Tenu par sa main."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Il connaît bien ma faiblesse,",
+				"Mon indignité;",
+				"Mais il me bénit sans cesse.",
+				"Grande est sa bonté.",
+				"Grande est sa bonté  (bis)",
+				"Il supplée à ma faiblesse,",
+				"Grande est sa bonté."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"J'ai, dans ma misère extrême,",
+				"Les yeux sur Jésus.",
+				"Je suis assuré qu'il m'aime :",
+				"Que faut-il de plus?",
+				"Les yeux sur Jésus! (bis)",
+				"Gloire à son amour suprême!",
+				"Que faut-il de plus?"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Ton sang, sur la croix bénie,",
+				"A coulé pour moi,",
+				"Et je ne me glorifie",
+				"Qu'en toi, divin Roi!",
+				"Oui, ce n'est qu'en toi (bis)",
+				"Que j'ai le salut, la vie,",
+				"Ô Jésus, mon Roi!"
+			]
+		}
+	]
+}
+

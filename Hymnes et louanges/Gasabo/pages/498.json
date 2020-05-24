@@ -1,0 +1,44 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Jeunesse ardente,",
+				"L'aube s'argente,",
+				"Et ta voix chante,",
+				"Au clair matin.",
+				"Déjà la vie",
+				"S'ouvre infinie,",
+				"Épanouie,",
+				"Dans le lointain."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Jeunesse éprise,",
+				"Quand vient la crise,",
+				"En Dieu seul puise",
+				"La fermeté.",
+				"Apre et tenace,",
+				"Le mal menace,",
+				"Prends pour cuirasse",
+				"La pureté."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Jeunesse aimée,",
+				"Telle une armée,",
+				"Sois enflammée",
+				"Pour ton Sauveur.",
+				"Donne-toi toute,",
+				"Poursuis ta route,",
+				"Toujours écoute",
+				"Le Christ vainqueur."
+			]
+		}
+	]
+}
+

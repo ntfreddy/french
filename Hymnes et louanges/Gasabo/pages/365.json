@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Trop souvent je murmure",
+				"Quand la route est obscure :",
+				"« Oh !  Ma foi faiblira. » (bis)",
+				"Et pourtant, la promesse",
+				"Est là pour ma faiblesse :",
+				"« L'Éternel pourvoira. » (bis)"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Si mon impatience",
+				"Demande avec instance",
+				"D'où le secours viendra? (bis)",
+				"Par ta Parole sainte",
+				"Tu réponds à ma plainte :",
+				"« L'Éternel pourvoira. » (bis)"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Je ne veux plus me plaindre,",
+				"Je ne veux plus rien craindre :",
+				"Contre moi qui sera? (bis)",
+				"En avant!  Et courage",
+				"Jusqu'au bout du voyage :",
+				"« L'Éternel pourvoira. » (bis)"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Et la mer mugissante,",
+				"Soudain obéissante,",
+				"Devant moi s'ouvrira (bis)",
+				"Plus le danger menace,",
+				"Plus puissante est la grâce :",
+				"« L'Éternel pourvoira. » (bis)"
+			]
+		}
+	]
+}
+

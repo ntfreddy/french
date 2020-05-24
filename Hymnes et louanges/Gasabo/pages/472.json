@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Sur le seuil le Roi s'arrête;",
+				"Il désire entrer chez toi.",
+				"Pour ton coeur, oh! quelle fête",
+				"D'accueillir enfin ton Roi!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"As-tu peur de sa présence?",
+				"Ne vois-tu pas ce rayon",
+				"De bonheur et d'espérance",
+				"Qui se glisse en ta maison?"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Sa présence, c'est la joie,",
+				"C'est le pardon, c'est la paix,",
+				"C'est le ciel que Dieu t'envoie,",
+				"Qui ne finira jamais."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Sur le seuil le Roi s'arrête;",
+				"Il désire entrer chez toi.",
+				"Pour ton coeur, oh! quelle fête",
+				"S'il devient enfin ton Roi!"
+			]
+		}
+	]
+}
+

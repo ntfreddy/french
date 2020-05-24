@@ -1,0 +1,56 @@
+{
+	"stanzas":6,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Au seuil de chaque année",
+				"Par le temps entraînée,",
+				"Cantiques et prières",
+				"Montent à Dieu le Père."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Au milieu des alarmes,",
+				"Sous la croix, dans les larmes,",
+				"Qu'ils nous soit une escorte",
+				"Et nous guide à main forte!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Et que son soleil luise",
+				"Sur la juste entreprise,",
+				"Sur le travail austère",
+				"Des humbles de la terre!"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Qu'à tous ceux qui soupirent",
+				"Vers la paix qu'ils désirent,",
+				"Il donne patience",
+				"Et vivante espérance!"
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Que dans les maladies,",
+				"Les douleurs ennemis,",
+				"Nous n'ayons point de crainte :",
+				"Dieu règle leur étreinte."
+			]
+		},
+		{"label":"6",
+			"lines":[
+				"Maître des destinées,",
+				"Des heures, des années,",
+				"Par ta grâce infinie",
+				"Dirige notre vie. Amen!"
+			]
+		}
+	]
+}
+

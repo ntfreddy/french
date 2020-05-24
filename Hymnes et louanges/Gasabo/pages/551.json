@@ -1,0 +1,48 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Jésus, Jésus, Jésus, Jésus,",
+				"Seul nom que mon coeur aime",
+				"Je voudrais ne prononcer plus",
+				"Qu'un seul mot, ce nom même"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Jésus, Jésus, ce nom si beau",
+				"C'est celui dont les anges,",
+				"Prosternés devant l'agneau",
+				"Remplissent leurs louanges"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Jésus, c'est le nom de celui",
+				"Qui descendit du Père,",
+				"Dont l'amour sur la croix a lui,",
+				"En qui la terre espère."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Jésus, c'est le nom du sauveur",
+				"Favorable à toute âme,",
+				"Et qu'aujourd'hui plus d'un pécheur",
+				"De tout son coeur acclame."
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Jésus, Jésus, Jésus, Jésus,",
+				"Bientôt mon coeur qui t'aime,",
+				"Auprès de toi ne dira plus",
+				"Qu'un seul mot, ton nom même."
+			]
+		}
+	]
+}
+

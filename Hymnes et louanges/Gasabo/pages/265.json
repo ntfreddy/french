@@ -1,0 +1,56 @@
+{
+	"stanzas":6,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Dans ma misère et mon péché,",
+				"Ô mon Sauveur, tu m'as cherché!",
+				"Tel que je suis, je viens à toi.",
+				"Seigneur, accepte-moi."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"J'ai faim, j'ai soif de ton pardon",
+				"Et je l'implore comme un don.",
+				"Tel que je suis, je viens à toi.",
+				"Seigneur, pardonne-moi."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Je ne saurais, Jésus, t'offrir",
+				"Qu'un pauvre coeur, las de souffrir.",
+				"Tel que je suis, je viens à toi.",
+				"Seigneur, enrichis-moi."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"J'ai trop longtemps, loin du bonheur,",
+				"Erré sans but et sans Sauveur,",
+				"Tel que je suis, je viens à toi.",
+				"Seigneur, dirige-moi."
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Pour que je reste en ton chemin,",
+				"Prends-moi toi-même par la main.",
+				"Tel que je suis, je viens à toi.",
+				"Jésus, reste avec moi."
+			]
+		},
+		{"label":"6",
+			"lines":[
+				"Et pour qu'un jour, en ton palais,",
+				"Roi de justice, Roi de paix,",
+				"Tu m'introduises près de toi:",
+				"Jésus, demeure en moi."
+			]
+		}
+	]
+}
+

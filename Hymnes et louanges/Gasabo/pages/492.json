@@ -1,0 +1,55 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"En ce monde de tristesse,",
+				"Seigneur, conduis-moi,",
+				"Prends pitié de ma faiblesse,",
+				"Tiens-moi près de toi!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Ô tout-puissant Roi (bis)",
+				"Toujours, toujours garde-moi,",
+				"Dans la paix en toi!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Si je perds toute espérance,",
+				"Ranime ma foi!",
+				"Aide-moi dans la souffrance",
+				"À m'attendre à toi!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Si mes amis me délaissent,",
+				"Oh! reste avec moi!",
+				"Fais, ô Dieu, qu'ils reconnaissent",
+				"Que je suis à toi!"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Quand passera cette terre,",
+				"Prends-moi près de toi!",
+				"Ton nom que j'aime et révère",
+				"Sera tout pour moi."
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Pour être un jour sur ton trône",
+				"Assis avec toi,",
+				"Et posséder ta couronne,",
+				"Seigneur, conduis-moi!"
+			]
+		}
+	]
+}
+

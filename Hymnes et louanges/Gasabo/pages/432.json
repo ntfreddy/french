@@ -1,0 +1,63 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"On est bien à la maison,",
+				"Quand règne l'amour.",
+				"La joie est dans chaque son,",
+				"Quand règne l'amour.",
+				"C'est la paix, la bonne humeur,",
+				"Le véritable bonheur,",
+				"Le temps passe avec douceur,",
+				"Quand règne l'amour."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Au foyer, chaque jour,",
+				"Le temps passe avec douceur,",
+				"Quand règne l'amour."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Vers Dieu s'élève un doux chant,",
+				"Quand règne l'amour.",
+				"Point de mot rude et méchant,",
+				"Quand règne l'amour.",
+				"Partout sur notre chemin",
+				"Fleurissent rose et jasmin :",
+				"La terre est un beau jardin,",
+				"Quand règne l'amour."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Le ciel sourit, bienveillant,",
+				"Quand règne l'amour.",
+				"Chacun se montre accueillant,",
+				"Quand règne l'amour.",
+				"Plus gaîment chante l'oiseau,",
+				"Et murmure le ruisseau,",
+				"L'azur du ciel est plus beau,",
+				"Quand règne l'amour."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Jésus, tout entier prends-moi,",
+				"Pour que chaque jour",
+				"Notre foyer soit par toi",
+				"Gardé dans l'amour.",
+				"Tu me mettras à l'abri",
+				"De tout mal, de tout souci.",
+				"Par toi je serai béni,",
+				"Jésus, Roi d'amour."
+			]
+		}
+	]
+}
+

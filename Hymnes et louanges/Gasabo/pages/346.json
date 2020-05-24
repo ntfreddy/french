@@ -1,0 +1,56 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"À de nouveaux combats",
+				"Jésus, tu nous appelles,",
+				"Et nous voici fidèles,",
+				"Prêts à suivre tes pas.",
+				"Conduis-nous aux combats :",
+				"Nous sommes tes soldats."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Arme nos bras, arme nos coeurs,",
+				"Et nous serons plus que vainqueurs",
+				"Et nous serons plus que vainqueurs",
+				"Arme nos bras, arme nos coeurs."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Arme-nous ô Seigneur!",
+				"De foi, de hardiesse,",
+				"De force, de sagesse,",
+				"D'amour et de ferveur;",
+				"Embrase-nous, Seigneur,",
+				"D'une invincible ardeur."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Nous tiendrons ferme et haut",
+				"La croix, notre bannière,",
+				"Pour vaincre l'adversaire",
+				"Par le sang de l'Agneau.",
+				"Oui nous tiendrons bien haut",
+				"Ta croix, notre drapeau."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Luttons, prions, souffrons!",
+				"Nous aurons la victoire;",
+				"La couronne de gloire",
+				"Un jour ceindra nos fronts.",
+				"Luttons, prions, souffrons!",
+				"Bientôt nous règnerons."
+			]
+		}
+	]
+}
+

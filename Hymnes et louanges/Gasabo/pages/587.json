@@ -1,0 +1,32 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"L'ombre étend ses voiles",
+				"Sur le bois bruni,",
+				"Scintillez, étoiles,",
+				"Le jour est fini."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"La nuit est venue,",
+				"Et l'oiseau frileux,",
+				"Désertant la nue,",
+				"Vole au nid moelleux."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Ô Jésus! viens éclore",
+				"L'oeil qui veut dormir,",
+				"Prépare l'aurore",
+				"Du jour à venir.  Amen!"
+			]
+		}
+	]
+}
+

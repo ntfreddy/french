@@ -1,0 +1,48 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"À toi, Seigneur nos saints transports,",
+				"En ce jour d'allégresse!",
+				"À toi nos plus joyeux accords,",
+				"Les chants de la jeunesse! (bis)"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Retentissez sous le ciel bleu,",
+				"Louanges infinies!",
+				"Réponds d'en haut, Esprit de Dieu;",
+				"Viens passer dans nos vies! (bis)"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Soufle béni, descends sur nous",
+				"Dans ces divines heures!",
+				"Pour que les fruits en soient plus doux,",
+				"Qu'en nous tous tu demeures! (bis)"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Rends le courage aux coeurs lassés!",
+				"Étends sur nous tes ailes!",
+				"Maintiens la foi des jours passés,",
+				"Les amitiés fidèles! (bis)"
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"À toi, Seigneur, dans tous les temps,",
+				"Nos coeurs heureux de croire!",
+				"Qu'ils soient toujours forts et vaillants,",
+				"Agissant pour ta gloire! (bis)"
+			]
+		}
+	]
+}
+

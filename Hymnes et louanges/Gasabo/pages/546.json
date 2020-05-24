@@ -1,0 +1,62 @@
+{
+	"stanzas":6,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Il faut cueillir les fleurs",
+				"Lorsque Dieu nous les donne!",
+				"Il faut avant l'automne,",
+				"Avant le temps des pleurs,",
+				"Il faut cueillir les fleurs!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Il faut rire et chanter",
+				"Avant les vieux jours sombres,",
+				"Avant qu'au champ des ombres",
+				"On aille nous porter...",
+				"Il faut rire et chanter."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Oui nous devons aimer",
+				"La vie et la jeunesse!",
+				"Le coeur de cette ivresse",
+				"Ne doit pas se fermer!",
+				"Oui nous devons aimer"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Et vive l'amitié,",
+				"L'amitié douce et sage!",
+				"Dès notre plus jeune âge",
+				"Tous nos coeurs ont crié :",
+				"«Et vive l'amitié!»"
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Qu'elle vive entre nous,",
+				"Tout sans elle est si fade!",
+				"Demande, camarade,",
+				"Demande à deux genoux",
+				"Qu'elle vive entre nous!"
+			]
+		},
+		{"label":"6",
+			"lines":[
+				"Serrons-nous tous la main!",
+				"Notre devise est sainte,",
+				"C'est l'amour vrai, sans feinte,",
+				"Qui chasse le chagrin.",
+				"Serrons-nous tous la main."
+			]
+		}
+	]
+}
+

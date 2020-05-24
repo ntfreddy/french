@@ -1,0 +1,56 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Pour chanter les louanges",
+				"Du Seigneur tout-puissant,",
+				"J'unis au coeur des anges",
+				"La voix d'un jeune enfant.",
+				"Pourrais-je encore me taire,",
+				"Négligeant mon Sauveur,",
+				"Quand tout sur cette terre",
+				"Célèbre son auteur?"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"La gentille alouette,",
+				"Le rossignol des bois,",
+				"Le pinson, la fauvette",
+				"Font résonner leur voix.",
+				"À la saison nouvelle,",
+				"J'aime leurs chants joyeux;",
+				"La nature est si belle!",
+				"Je veux chanter comme eux."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Si j'entends sur ma route",
+				"L'appel du tentateur,",
+				"Mon faible coeur redoute",
+				"Son pouvoir séducteur.",
+				"Mais quand sans défaillance,",
+				"J'entonne un chant pieux,",
+				"Dès cet instant j'avance",
+				"D'un pas ferme et joyeux."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Aux heures de tristesse,",
+				"Quand un chant retendit,",
+				"Bientôt ma douleur cesse",
+				"Et mon chagrin s'enfuit.",
+				"Ainsi, douce harmonie,",
+				"Tu ranimes mon coeur,",
+				"Et souvent, dans la vie,",
+				"Tu me rends le bonheur."
+			]
+		}
+	]
+}
+

@@ -1,0 +1,48 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Chaque jour de ma vie",
+				"Je veux dire au Seigneur :",
+				"Apprends-moi, je te prie,",
+				"À te donner mon coeur."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Dès que le jour commence",
+				"Je veux dire au Seigneur :",
+				"Tiens-moi dans ta présence,",
+				"Mon Dieu, mon Rédempteur!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Souvent dans la journée",
+				"Je veux dire au Seigneur :",
+				"Toi qui me l'as donnée",
+				"Sois-en le bienfaiteur."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Et quand vient la nuit sombre,",
+				"Je veux dire au Seigneur :",
+				"Tu me vois sous son ombre;",
+				"Garde-moi ta faveur!"
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Oui, toujours sur la terre",
+				"Je veux dire au Seigneur :",
+				"«Qu'en toi, céleste Père,",
+				"Je trouve mon bonheur »."
+			]
+		}
+	]
+}
+

@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Voici Jésus, notre Sauveur,",
+				"Qui nous ouvre une porte,",
+				"Suis-moi, dit-il à tout pécheur,",
+				"De sa voix tendre et forte."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Merci, Jésus, jespère en toi,",
+				"Ta porte est ouverte pour moi,",
+				"Pour moi, pour moi,",
+				"Est ouverte pour moi."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"La porte est ouverte à tous ceux",
+				"Qui cherchent paix et joie,",
+				"Elle introduit les malheureux",
+				"Sur la céleste voie."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"La sainte croix du Rédempteur",
+				"Viens éclairer la route :",
+				"Sous cette croix plus de terreur,",
+				"Dangoisse, ni de doute."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Répondons au divin appel",
+				"Avec reconnaissance,",
+				"Et vers le séjour éternel",
+				"Marchons en assurance."
+			]
+		}
+	]
+}
+

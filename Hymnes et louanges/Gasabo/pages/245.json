@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Veux-tu partager la gloire,",
+				"Un jour, du divin agneau?",
+				"En Jésus il te faut croire,",
+				"Il faut naître de nouveau."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Si tu veux avec puissance",
+				"Glorifier Jésus-Christ,",
+				"Il te faut l'obéissance",
+				"À la voix du Saint-Esprit."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Pour présenter à ce monde",
+				"La croix qui doit le sauver,",
+				"Pour l'activité féconde,",
+				"Il faut se sacrifier."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"C'est ici la loi suprême,",
+				"Il faut naître de nouveau,",
+				"En renonçant à soi-même,",
+				"Constamment suivre l'Agneau."
+			]
+		}
+	]
+}
+

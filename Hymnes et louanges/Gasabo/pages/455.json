@@ -1,0 +1,60 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Gémissant sous l'esclavage,",
+				"Dans la sombre nuit,",
+				"Amis, reprenez courage :",
+				"Déjà l'aube luit."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Oh! joyeuse espérance.",
+				"Voici la délivrance!",
+				"Nous connaissons la puissance",
+				"De notre grand Libérateur,",
+				"Et nous vous disons : confiance!",
+				"Venez, donnez-lui votre coeur!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Que de larmes, que de chutes",
+				"Dans la sombre nuit!",
+				"Voici la fin de vos luttes :",
+				"Déjà l'aube luit."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Prenant en dégoût la vie,",
+				"Coeurs découragés!",
+				"Que pourrait votre énergie,",
+				"Pauvres naufragés,"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Lui, qui fit tomber nos chaînes",
+				"Et nous affranchit,",
+				"Voit aussi vos luttes vaines ",
+				"Dans la sombre nuit..."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Oh! joyeuse espérance,",
+				"Voici la délivrance!",
+				"Croyez donc à la puissance ",
+				"De notre Grand Libérateur,",
+				"Et venez avec confiance;",
+				"Venez, donnez-lui votre coeur!"
+			]
+		}
+	]
+}
+

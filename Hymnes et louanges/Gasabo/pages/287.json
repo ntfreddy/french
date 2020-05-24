@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Exaltons notre divin Maître,",
+				"Dont lamour ne saurait changer;",
+				"Il nous est doux de le connaître,",
+				"Et de le prendre pour Berger"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Louons, louons le Rédempteur,",
+				"Notre Seigneur victorieux,",
+				"Il nous donna le vrai bonheur,",
+				"Et nous bénit du haut des cieux!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Dans le péché, dans lignorance,",
+				"Nous vivions sans foi, sans espoir;",
+				"Mais il a vu notre souffrance,",
+				"Et près de nous il vint s'asseoir."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Dans nos coeurs brilla la lumière,",
+				"Sa précieuse vérité;",
+				"Lui-même devint notre frère,",
+				"Le Sauveur de l'humanité."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Oh! désormais suivons sans crainte",
+				"Le sentier de l'Ami divin.",
+				"Écoutons toujours ma voix sainte.",
+				"Nous sommes dans le sûr chemin."
+			]
+		}
+	]
+}
+

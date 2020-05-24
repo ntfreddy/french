@@ -1,0 +1,40 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Voir mon Sauveur face à face,",
+				"Voir Jésus dans sa beauté,",
+				"Ô joie! ô suprême grâce!",
+				"Ô bonheur! Félicité!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Oui, dans ta magnificence",
+				"Je te verrai, divin Roi!",
+				"Pour toujours en ta présence",
+				"Je serai semblable à toi!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Ta gloire est encor voilée,",
+				"Ah! d'un voile ensanglanté...",
+				"Bientôt sera révélée",
+				"Ton ineffable beauté"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Oh! quels transports d'allégresse,",
+				"Quand tes yeux baissés sur moi,",
+				"Me diront avec tendresse :",
+				"«Je mourus aussi pour toi!»"
+			]
+		}
+	]
+}
+

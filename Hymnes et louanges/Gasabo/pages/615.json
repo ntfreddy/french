@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Ô toi, source intarissable",
+				"De grâce et de vrai bonheur,",
+				"Bon Sauveur, saint adorable,",
+				"Reçois le don de mon coeur."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Sa faiblesse et sa misère,",
+				"Sa tièdeur, tu les connais;",
+				"Mais par ton Esprit, ô Père!",
+				"Qu'il soit changé désormais."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Qu'il soit plus vaillant, plus tendre,",
+				"Simple et soumis à tes lois,",
+				"Toujours désireux d'entendre",
+				"Le doux appel de ta voix."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Et, revêtu de justice,",
+				"Que ton humble enfant, Seigneur,",
+				"Avec tous les tiens s'unisse",
+				"Dans un éternel bonheur."
+			]
+		}
+	]
+}
+

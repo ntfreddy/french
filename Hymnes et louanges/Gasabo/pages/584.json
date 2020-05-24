@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Seigneur, de ta demeure",
+				"Daigne .couter les chants",
+				"Que t'offrent, à cette heure,",
+				"Quelques jeunes enfants."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Dans cette chère école",
+				"Ton jour nous réunit,",
+				"Et ta douce Parole",
+				"À Jésus nous conduit."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"En Jésus est la vie,",
+				"La sainteté, la paix,",
+				"Et sa voix nous convie",
+				"À goûter ses bienfaits"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Que ce glorieux Maître",
+				"Règne sur notre coeur;",
+				"Qu'en nous il fasse naître",
+				"La joie et le bonheur."
+			]
+		}
+	]
+}
+

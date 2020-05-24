@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Sous l'oeil de Dieu, le roi tremble et s'agite.",
+				"La nuit qui tombe inspire la terreur;",
+				"Mais dans Gosen veille I'Israélite.",
+				"Le châtiment va frapper l'oppresseur."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"À vos linteaux quand Dieu verra le signe,",
+				"Il passera loin du sang protecteur. ",
+				"De son amour il est le gage insigne, ",
+				"Car c'est le sang rédempteur."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"L'Agneau se meurt, ô divin sacrifice!",
+				"Quel deuil sa mort cause à tout son troupeau!",
+				"Le sang versé nous transmet la justice.",
+				"Regardez bien : est-il sur le linteau?"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Je ne vois rien, hélas! rien sur ma porte...",
+				"Ange de Dieu, suspends ton bras vengeur!",
+				"GrâCe, oh! fais grâce, attends, vois je le porte.",
+				"Mon coeur est pur par le sang du Sauveur."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Ne veux-tu pas, pécheur, de cette grâce ",
+				"Que seul Jésus t'offre au prix de sa mort?",
+				"Viens à la croix, l'abri seul efficace; ",
+				"Viens, la nuit tombe et l'ange au glaive sort..."
+			]
+		}
+	]
+}
+

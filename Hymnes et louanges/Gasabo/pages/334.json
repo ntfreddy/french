@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"C'est mon joyeux service",
+				"D'offrir à Jésus-Christ,",
+				"En vivant sacrifice,",
+				"Mon corps et mon esprit."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Accepte mon offrande,",
+				"Bien-aimé Fils de Dieu!",
+				"Et que sur moi descende",
+				"La flamme du saint lieu!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"J'abandonne ma vie,",
+				"Sans regret ni frayeur,",
+				"À ta grâce infinie,",
+				"Ô mon libérateur."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Qu'un feu nouveau s'allume",
+				"Par ton amour en moi,",
+				"Et dans mon coeur consume",
+				"ce qui n'est pas à toi!"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Viens, Jésus! Sois mon Maître :",
+				"Par ton sang racheté,",
+				"À toi seul je veux être",
+				"Et pour l'éternité."
+			]
+		}
+	]
+}
+

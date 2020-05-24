@@ -1,0 +1,40 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Tinte, pièce blanche!",
+				"Tintez, petits sous!",
+				"Joyeuse avalanche,",
+				"Votre bruit est doux."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Donnez, donnez   (bis)",
+				"Tous ces petits sous.",
+				"Pour les païens, donnez-les...",
+				"Jésus les veut tous."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Une longue file",
+				"D'enfants en gaîté,",
+				"Met dans la sébile",
+				"Le don apporté."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Près de Dieu, son Père,",
+				"Celui qui souffrit,",
+				"Notre divin Frère,",
+				"Tendrement sourit."
+			]
+		}
+	]
+}
+

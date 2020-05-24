@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Si vous saviez quel Sauveur je possède",
+				"Il est l'ami, le plus tendre de tous.",
+				"Pour moi devant le Père, il intercède",
+				"Oh! Je voudrais qu'il fût aussi pour vous!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Mon Sauveur vous aime;",
+				"Ah! cherchez en lui.",
+				"Votre ami suprême,",
+				"Votre seul appui!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Si vous saviez la paix douce et profonde",
+				"Que mon Sauveur, en mon âme apporta",
+				"Pour cette paix, que peut donner le monde?",
+				"Elle jaillit pour vous de Golgotha."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Si vous saviez quelle douce espérance",
+				"Le Dieu de paix fait rayonner des cieux!",
+				"Combien sa voix sait calmer la souffrance",
+				"Et son regard rendre le coeur joyeux!"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Quand vous saurez combien Jésus vous aime",
+				"Quand vous saurez combien son joug est doux,",
+				"Ne gardez pas ce trésor pour vous-même,",
+				"Mais proclamez ce qu'il a fait pour vous!"
+			]
+		}
+	]
+}
+

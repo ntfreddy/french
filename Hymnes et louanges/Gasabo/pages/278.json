@@ -1,0 +1,56 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Me voici devant ta face,",
+				"Mon Sauveur, je viens à toi,",
+				"Et de ton trône de grâce",
+				"Je mapproche par la foi.",
+				"Je tapporte ma souillure :",
+				"Et toi, gloire à ton saint nom!",
+				"Tu laves mon âme impure,",
+				"Tu maccordes ton pardon."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Je tapporte ma faiblesse;",
+				"Mieux que moi tu la connais.",
+				"Je tapporte ma tristesse,",
+				"Et tu me donnes ta paix.",
+				"Mes soucis, tu les partages;",
+				"Tu prends sur toi mes fardeaux;",
+				"Du regard tu mencourages,",
+				"Et tu guéris tous mes maux."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Ton amour calme et console,",
+				"Ô Jésus, mon Rédempteur!",
+				"Je savoure ta Parole,",
+				"Où ta voix parle à mon coeur.",
+				"Sur toi seul je me repose;",
+				"Ta promesse me soutient;",
+				"Avec toi jai toute chose,",
+				"Et mon âme tappartient."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Oh! comme toi, je veux être",
+				"Doux, aimant, humble de coeur,",
+				"Vrai disciple de mon Maître,",
+				"Vrai témoin de mon Sauveur.",
+				"Et quand je verrai ta face,",
+				"Ressuscité, glorieux,",
+				"Je célébrerai ta grâce",
+				"Avec tous les bienheureux."
+			]
+		}
+	]
+}
+

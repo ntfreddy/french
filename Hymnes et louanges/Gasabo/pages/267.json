@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Seigneur, tu donnes ta grâce",
+				"Au coeur qui sattend à toi;",
+				"Ah! que sa douce efficace",
+				"Se répande aussi sur moi.",
+				"Oui, sur moi! (bis)",
+				"Se répande aussi sur moi!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Père tendre et secourable,",
+				"Jai souvent enfreint ta loi;",
+				"Quoique impur et misérable,",
+				"Oh! pardonne et bénis-moi.",
+				"Bénis-moi! (bis)",
+				"Oh! pardonne et bénis-moi!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Ô Sauveur toujours propice,",
+				"Fais que je mattache à toi!",
+				"Jai faim, jai soif de justice;",
+				"Je tappelle, réponds-moi!",
+				"Réponds-moi! (bis)",
+				"Je tappelle, réponds-moi!"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Par ton amour, ô bon Père,",
+				"Par le sang versé pour moi,",
+				"Par lEsprit qui seul opère,",
+				"Dieu trois fois saint, sauve-moi!",
+				"Sauve-moi! (bis)",
+				"Dieu trois fois saint, sauve-moi!"
+			]
+		}
+	]
+}
+

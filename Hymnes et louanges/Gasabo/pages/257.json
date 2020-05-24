@@ -1,0 +1,41 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Venez au Sauveur qui vous aime,",
+				"Venez, il a brisé vos fers.",
+				"Il veut vous recevoir lui-même,",
+				"Ses bras vous sont ouverts."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Oh! Quel beau jour,",
+				"Sauveur fidèle,",
+				"Quand nous appuyant sur ton bras,",
+				"Dans la demeure paternelle",
+				"Nous porterons nos pas."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Venez, pécheurs, il vous appelle,",
+				"Le bonheur est dans son amour.",
+				"Ah! Donnez-lui ce coeur rebelle,",
+				"Donnez-le sans retour!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Le temps fuit, l'heure s'écoule,",
+				"Qui sait si nous vivrons demain?",
+				"Jésus est ici dans la foule,",
+				"Ah! Saisissez sa main!"
+			]
+		}
+	]
+}
+

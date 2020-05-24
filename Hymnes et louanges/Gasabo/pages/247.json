@@ -1,0 +1,56 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Reviens à ton Père,",
+				"Enfant égaré!",
+				"Dis-lui ta misère,",
+				"Dis-lui : « Jai péché. »",
+				"Toujours il pardonne",
+				"À qui se repent.",
+				"Pour toi lheure sonne,",
+				"Cest toi quil attend."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Reviens à ton Père,",
+				"Ses biens sont pour toi.",
+				"Entends sa prière,",
+				"Reviens sans effroi!",
+				"Sa main sest tendue",
+				"Vers toi maintenant;",
+				"Sa voix bien connue",
+				"Dit : « Viens, mon enfant! »"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Reviens à ton Père,",
+				"Ici, tu péris,",
+				"Son eau désaltère :",
+				"Reviens à tout prix!",
+				"Oh! crois à sa grâce;",
+				"Sa paix est pour toi.",
+				"Chez lui, prends ta place,",
+				"Deviens fils du Roi!"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Reviens à ton Père,",
+				"Reviens, cest le port;",
+				"Reviens, et préfère",
+				"La vie à la mort.",
+				"Vois-tu, son coeur saigne",
+				"Devant ton malheur.",
+				"Viens donc, quil tétreigne",
+				"Enfin sur son coeur!"
+			]
+		}
+	]
+}
+

@@ -1,0 +1,32 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Enfants, soyez sages,",
+				"Aimants et joyeux :",
+				"De riants visages",
+				"Reflètent les cieux."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Toujours, soeurs et frères,",
+				"Restez bons amis;",
+				"À vos bonnes mères",
+				"Soyez bien soumis."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Jamais de colère,",
+				"De propos menteur;",
+				"La bouche sincère",
+				"Plait au bon Sauveur."
+			]
+		}
+	]
+}
+

@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Pauvre buveur, quelle est donc ta folie!",
+				"Le désespoir te suit à chaque pas;",
+				"Tu veux briser la chaine qui te lie,",
+				"Et cependant, elle ne tombe pas."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Ne songe pas à la rompre toi-même,",
+				"Car ce serait vainement te meurtrir;",
+				"ans son Amour et sa bonté suprême,",
+				"C'est Dieu, Lui seul, Qui peut te secourir."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Viens parmi nous, qui t'aimons comm un frère;",
+				"Nous t'aiderons à regarder à Lui,",
+				"Jusqu'au moment où Sa Pure Lumière",
+				"Comme un soleil éclora dans ta nuit."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Crie à celui que jamais les esclaves",
+				"Les plus tramblants n'implorèrent en vain :",
+				"Sur les débris de tes lourdes entraves",
+				"Alors luira la liberté sans fin."
+			]
+		}
+	]
+}
+

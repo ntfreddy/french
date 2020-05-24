@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Qu'il fait bon à ton service",
+				"Jésus mon Sauveur!",
+				"Qu'il m'est doux en sacrifice",
+				"De t'offrir mon coeur."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Prends, ô Jésus! prends ma vie",
+				"Elle est toute à toi!",
+				"Et dans ta grâce infinie,",
+				"Du mal sauve-moi."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Pour me posséder toi-même,",
+				"Tu m'as racheté;",
+				"Fais que désormais je n'aime",
+				"Que ta volonté"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Comme l'ange au vol rapide,",
+				"Je veux te servir;",
+				"Je veux te suivre, ô mon guide!",
+				"Toujours t'obéir."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Travaux, luttes et souffrances,",
+				"Que craindrais-je encor?",
+				"En Christ est mon espérance,",
+				"Au ciel mon trésor."
+			]
+		}
+	]
+}
+

@@ -1,0 +1,56 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Il faisait nuit, et battu par l'orage,",
+				"Le frêle esquif luttait contre les flots;",
+				"Le vent toujours l'éloignait de la plage,",
+				"Et déjouait l'effort des matelots."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Quand tout à coup une vive lumière",
+				"Jette l'émoi dans leurs coeurs agités;",
+				"Tous ont cru, comme un ombre légère,",
+				"Quelqu'un marcher sur les flots irrités."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Mais, ô bonheur, une voix bien connue,",
+				"Des passagers a dissipé l'effroi;",
+				"L'ombre s'efface et Jésus, à leur vue,",
+				"S'offre et leur dit: «Rassurez-vous, c'est moi!»"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"«Maître, permets que jusqu'à toi sur l'onde",
+				"Je marche aussi», dit Céphas plein d'ardeur.",
+				"«Viens!» dit Jésus, et sur la mer profonde,",
+				"L'heureux disciple approche du Seigneur."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Mais au fracas du vent, de la tempête,",
+				"Au bruit du flot qui roule et rebondit,",
+				"L'effroi le gagne, il hésite, il s'arrête;",
+				"Il a douté, sa foi s'évanouit."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Jésus entend ses accents de détresse,",
+				"Lui tend les bras et calme son émoi.",
+				"Que son approche est mêlé de tendresse",
+				"Quand il lui dit: «Pourquoi manquer de foi?»"
+			]
+		}
+	]
+}
+

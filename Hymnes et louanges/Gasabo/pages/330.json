@@ -1,0 +1,40 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"À toi, mon Dieu, je m'abandonne,",
+				"Oh! fais de moi ce que tu veux :",
+				"De l'argile que je te donne,",
+				"Fais un diamant précieux!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Prends, Seigneur, prends toute ma vie,",
+				"À toi seul, je veux obéir.",
+				"Par l'Esprit qui me sanctifie,",
+				"Sur ton autel, je viens m'offrir!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Tu connais ma grande faiblesse,",
+				"Mon impuissance à te servir,",
+				"S'il le faut, que ta main me blesse,",
+				"Ton amour saura me guérir!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Oh! ne m'épargne ni la flamme,",
+				"Ni le ciseau, divin Sculpteur.",
+				"Que ton Esprit forme mon âme",
+				"À l'image de son Sauveur!"
+			]
+		}
+	]
+}
+

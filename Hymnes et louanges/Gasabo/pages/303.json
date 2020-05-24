@@ -1,0 +1,48 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Que suis-je sur la terre?",
+				"Un vermisseau d'un jour!",
+				"Mais en Jésus j'espere :",
+				"J'ai tout en son amour."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Qu'importe ma misère!",
+				"Jésus est mon trésor,",
+				"Trésor moins éphémère",
+				"Qu'au riche tout son or."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Qu'importe ma faiblesse!",
+				"Jésus est fort pour moi.",
+				"Je crois à sa promesse,",
+				"Je lutte par la foi."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Qu'importent ma souffrance,",
+				"Mon deuil ou mon souci!",
+				"Jésus, ma délivrance,",
+				"A tout souffert aussi."
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Qu'importe la mort même,",
+				"La pierre du tombeau!",
+				"Pourvu que Jésus m'aime,",
+				"Mon sort est le plus beau."
+			]
+		}
+	]
+}
+

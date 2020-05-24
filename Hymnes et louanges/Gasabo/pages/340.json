@@ -1,0 +1,40 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Viens! mon âme -- Te réclame,",
+				"Car c'est toi qui m'as cherché.",
+				"Pour te suivre -- Je te livre",
+				"Mon coeur avec son péché."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Viens! mon âme -- Te réclame,",
+				"Mon bonheur est tout en toi,",
+				"Je t'adore -- Je t'implore",
+				"Ô Jésus, demeure en moi!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Oui, ta grâce -- Seule efface",
+				"Toutes mes iniquités,",
+				"Tu pardonnes -- Tu me donnes",
+				"La paix de tes rachetés."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Ah! demeure -- À chaque heure",
+				"Mon rempart, mon défenseur,",
+				"Ma victoire -- Et ma gloire,",
+				"Ô Jésus, mon seul Sauveur!"
+			]
+		}
+	]
+}
+

@@ -1,0 +1,44 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"La route est glissante",
+				"Où tu vas joyeux,",
+				"Et sombre est la pente,",
+				"Voilée à tes yeux.",
+				"Jésus t'appelle...",
+				"Reviens à lui!",
+				"Son amour fidèle",
+				"T'invite aujourd'hui."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Quel fardeau t'oppresse,",
+				"Quel poids sur ton coeur!",
+				"Toi qui, dans l'ivresse,",
+				"Cherches le bonheur!",
+				"Jésus soulage,",
+				"Jésus guérit.",
+				"Oh! quel doux message!",
+				"Viens à Jésus-christ."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Que de fleurs fanées,",
+				"De moments maudits,",
+				"Pendant tant d'années",
+				"Près des faux amis!",
+				"Mais Jésus t'aime",
+				"D'un pur Amour.",
+				"Donne-lui toi-même",
+				"Ton coeur en ce jour!"
+			]
+		}
+	]
+}
+

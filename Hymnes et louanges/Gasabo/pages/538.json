@@ -1,0 +1,51 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Travaillons et luttons!",
+				"Nous sommes au Seigneur,",
+				"Suivons l'étroit sentier qui conduit à la vie,",
+				"Jésus marche avec nous, avançons sans frayeur,",
+				"Il nous garde et son bras toujours nous fortifie."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Travaillons et luttons! (bis)",
+				"Soyons prêts et prions,",
+				"Bientôt le Maître va venir!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Travaillons et luttons!",
+				"Que les coeurs affligés.",
+				"Les perdus loin de Dieu retrouvent l'espérance,",
+				"Vers la croix dirigeons leurs regards angoissés,",
+				"Pressons-les d'accepter Jésus leur délivrance."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Travaillons et luttons!",
+				"Il nous appelle tous,",
+				"Point de lâches, de tièdes, la moisson est grande,",
+				"Pour servir notre Chef, ne pensons plus à nous,",
+				"En avant! vers le but, le Maître le demande."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Travaillons et luttons!",
+				"Sans jamais nous lasser,",
+				"De notre Rédempteur élevant la bannière,",
+				"Fidèles jusqu'au bout, sachons persévérer,",
+				"Le repos nous attend dans la pleine lumière!"
+			]
+		}
+	]
+}
+

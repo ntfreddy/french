@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Que je sois comme un rayon d'or",
+				"Qui vient du ciel et luit.",
+				"Que sans faiblir, je brille encor",
+				"Dans la plus sombre nuit."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Que je sois semblable à la fleur",
+				"Éclose sous mes pas,",
+				"Semant la joie et le bonheur",
+				"Chaque jour ici-bas."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Semblable aux doux hymnes d'amour",
+				"Apaisant les douleurs,",
+				"Que ma vois répète à son tour :",
+				"Jésus tarit les pleurs."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Que je sois toujours le soutien",
+				"Du pèlerin tremblant.",
+				"Force, santé, j'offre mon bien",
+				"Au Seigneur tout-puissant."
+			]
+		}
+	]
+}
+

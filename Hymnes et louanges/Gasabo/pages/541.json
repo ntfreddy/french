@@ -1,0 +1,52 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Volontaires, au combat!",
+				"Debout pour Jésus!",
+				"Fidèles à notre mandat,",
+				"Partons, n'hésitons plus!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Volontaires, volontaires,",
+				"Luttons pour Jésus.",
+				"Volontaires, volontaires,",
+				"Oh! Ne tardons plus.",
+				"Qu'une sainte ardeur anime",
+				"Tous nos jeunes coeurs,",
+				"Qu'en Jésus, sainte Victime,",
+				"Nous soyons vainqueurs!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"À l'oeuvre pour le Seigneur,",
+				"Tandis qu'il est jour.",
+				"Parlons de Jésus au pécheur,",
+				"De son immense amour."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Jésus nous appelle tous",
+				"À vaincre pour lui,",
+				"À vaincre en luttant à genoux,",
+				"Il sera notre appui."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"À l'oeuvre jusqu'au matin",
+				"Du jour éternel.",
+				"Bientôt, bientôt viendra la fin",
+				"Et nous serons au ciel."
+			]
+		}
+	]
+}
+

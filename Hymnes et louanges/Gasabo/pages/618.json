@@ -1,0 +1,37 @@
+{
+	"stanzas":1,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Christ est mon rocher, ma lumière et mon Sauveur,",
+				"Je ne crains rien,",
+				"Il est mon rempart et mon ferme soutien,",
+				"De qui pourrais-je avoir peur?",
+				"Même si la tempête fait rage,",
+				"Au plus fort de l'orage,",
+				"Si mon coeur est troublé,",
+				"S'il venait à douter, accablé",
+				"Dieu ranime toujours mon courage",
+				"Et je suis consolé."
+			]
+		},
+		{"label":" ",
+			"lines":[
+				"Mon âme espère en l'Éternel!",
+				"Qu'un chant s'élève au Dieu du ciel!",
+				"Mon âme espère en l'Éternel!"
+			]
+		},
+		{"label":" ",
+			"lines":[
+				"Mon âme espère en l'Éternel!",
+				"Qu'un chant s'élève au Dieu du ciel!",
+				"Mon âme espère en l'Éternel!",
+				"Amen !"
+			]
+		}
+	]
+}
+

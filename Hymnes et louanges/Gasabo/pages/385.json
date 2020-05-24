@@ -1,0 +1,53 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Quand sur la sombre route,",
+				"Nous côtoyons le doute,",
+				"Seigneur, conduis nos pas,",
+				"Que notre pied ne glisse pas!",
+				"Reste avec nous! (bis)"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Quand gronde la tempête,",
+				"Quand nous courbons la tête,",
+				"Que ta puissante voix",
+				"Calme les flots comme autrefois!",
+				"Roste avec nous! (bis)"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Quand l'Église en prière",
+				"T'implore pour un frère",
+				"Qui trahit son Sauveur,",
+				"Cherchant du monde la faveur :",
+				"Reste avec nous! (bis)"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Quand la souffrance amère,",
+				"Nous vainc, nous désespère,",
+				"Viens à notre secours,",
+				"À toi seul nous aurons recours :",
+				"Reste avec nous! (bis)"
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Quand vers natre patrie,",
+				"L'âme émue et ravie,",
+				"Nous prendrons notre essor,",
+				"Seigneur, nous te dirons encor :",
+				"Reste avec nous! (bis)"
+			]
+		}
+	]
+}
+

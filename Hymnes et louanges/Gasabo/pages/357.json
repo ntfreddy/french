@@ -1,0 +1,43 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Poursuivons notre course avec persévérance.",
+				"Et que rien ici-bas n'entrave notre ardeur.",
+				"Déjà parait le but, ô sublime espérance!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Regardons à Jésus,",
+				"Regardons à Jésus, couronnant le vainqueur ",
+				"Regardons à Jésus, couronnant le vainqueur"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Si la route parfois est ardue et sévère,",
+				"Supportons vaillamment fatigues et douleurs",
+				"Quand le chemin des cieux doit passer au Calvaire."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Si l'ennemi nous attend au passage,",
+				"S'il cache sous nos pas des pièges destructeurs,",
+				"S'il trouble notre foi, ne perdons pas courage."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Et quand viendra pour nous la fin de la carrière,",
+				"Si l'ombre de la mort enveloppe nos coeurs,",
+				"Cherchons encore en haut l'éternelle lumière."
+			]
+		}
+	]
+}
+

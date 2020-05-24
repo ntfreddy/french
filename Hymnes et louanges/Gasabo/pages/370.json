@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Il est un roc séculaire,",
+				"Que Dieu, pour mon coeur lassé,",
+				"Comme un abri tutélaire",
+				"Au sein des flots a placé."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Mon rocher, ma forteresse,",
+				"Mon asile protecteur,",
+				"Mon recours dans la détresse,",
+				"C'est Jésus, le Rédempteur!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"À mes pieds l'océan gronde,",
+				"Le vent siffle autour de moi",
+				"Sur Christ, mon rocher, je fonde",
+				"Mon espérance et ma foi."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"En vain l'ouragan fait rage",
+				"Et nullo clarté ne luit;",
+				"Paisible au sein de l'orage,",
+				"J'attends l'aube après la nuit."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Jouet de l'onde agitée,",
+				"Cet abri, l'as-tu trouvé?",
+				"Viens, pauvre âme tourmentée,",
+				"Au rocher qui m'a sauvé."
+			]
+		}
+	]
+}
+

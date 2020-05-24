@@ -1,0 +1,56 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Jésus, doux Maître,",
+				"Règne sur moi,",
+				"Soumets mon être,",
+				"Sois-en le Roi;",
+				"Je suis l'argile,",
+				"Toi le potier,",
+				"Rends-moi docile,",
+				"Ton prisonnier."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Jésus, lumière,",
+				"Pénètre en moi,",
+				"Éprouve, éclaire",
+				"Ma faible foi;",
+				"Plus blanc que neige",
+				"Rends-moi Seigneur,",
+				"Et de tout piège",
+				"Garde mon coeur."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Ô Jésus, source",
+				"De guérison,",
+				"Sois, dans ma course,",
+				"Santé, pardon;",
+				"Par ta puissance,",
+				"Viens, soutiens-moi;",
+				"Par ta présence,",
+				"Révèle-toi."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Je m'abandonne,",
+				"Jésus à toi,",
+				"Détruis, pardonne",
+				"Tout mal en moi;",
+				"Remplis mon âme",
+				"De ton Esprit,",
+				"Et qu'il m'enflamme",
+				"Et jour et nuit!"
+			]
+		}
+	]
+}
+

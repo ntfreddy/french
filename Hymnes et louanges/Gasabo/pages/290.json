@@ -1,0 +1,56 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Dans les cieux et sur la terre,",
+				"Il n'est aucun nom plus doux,",
+				"Aucun que mon coeur préfère,",
+				"Au nom de Christ mort pour nous."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Quel beau nom! Quel beau nom! ",
+				"Porte l'Oint de l'Éternel!",
+				"Quel beau nom! Quel beau nom! ",
+				"Que celui d'Emmanuel!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Quelque grand que soit un homme,",
+				"Qu'il soit prince ou qu'il soit roi.",
+				"De quelque nom qu'on le nomme,",
+				"Jésus est plus grand pour moi"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Les séraphins, les archanges",
+				"Portent des noms glorieux,",
+				"Mais le plus beau nom des anges",
+				"Pourrait-il me rendre heureux?"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Dans les maux, Jésus soulage,",
+				"Il guérit l'esprit froissé,",
+				"Il ranime le courage",
+				"Du coeur le plus oppressé."
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"De quelle joie il inonde",
+				"Le coeur du pauvre pécheur!",
+				"Non, il n'est rien en ce monde",
+				"De pareil à ce bonheur!"
+			]
+		}
+	]
+}
+

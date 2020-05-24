@@ -1,0 +1,40 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Sentinelle vigilante",
+				"Qu'en est-il donc de la nuit?",
+				"Dis à l'âme somnolente",
+				"Que déjà le matin luit!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"La nuit passe,",
+				"Le matin du grand jour luit!",
+				"Sentinelle, sois au poste",
+				"Jour et nuit."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Les gardes sur la muraille",
+				"Nous l'on dit, entendez-vous?",
+				"Au loin gronde la bataille,",
+				"Tout est sombre autour de nous"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Point de repos, de relâche,",
+				"Rachetés de l'Éternel.",
+				"Travaillez à votre tâche,",
+				"Car Jésus revient du ciel!"
+			]
+		}
+	]
+}
+

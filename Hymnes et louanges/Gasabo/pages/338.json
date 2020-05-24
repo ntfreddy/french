@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Les gains, les honneurs de la terre",
+				"Sont à mes yeux perte, chimère,",
+				"Dès que je contemple la croix",
+				"Où fut cloué le Roi des rois. (bis)"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Ah! dans sa suprême agonie,",
+				"Quels trésors de grâce infinie",
+				"Se  révèlent à notre coeur,",
+				"Et quel amour dans sa douleur. (bis)"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"J'étais perdu, sans espérance;",
+				"Par son sang, j'ai la délivrance,",
+				"Aussi sa croix reste à jamais",
+				"Mon sujet de gloire et de paix. (bis)"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Ton amour, ô sainte Victime,",
+				"Amour éternel et sublime,",
+				"Réclame mon coeur, chaque jour,",
+				"Heure après heure et sans retour. (bis)"
+			]
+		}
+	]
+}
+

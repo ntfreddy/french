@@ -1,0 +1,40 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Toujours ta divine présence",
+				"Jette un rayon sur mon chemin;",
+				"Et, le coeur joyeux, je m'avance :",
+				"Je n'ai pas peur du lendemain."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Où tu voudras, je veux te suivre;",
+				"Agneau de Dieu, conduis mes pas.",
+				"Vivre sans toi, ce n'est pas vivre;",
+				"Je ne puis être où tu n'es pas."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Oh!  que jamais rien ne me voile",
+				"Ton doux regard, bien-aimé Roi!",
+				"Dans le danger, brillante Étoile,",
+				"Garde mes yeux fixés sur toi."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Auprès de toi, la vie est belle,",
+				"C'est le bonheur, la liberté;",
+				"C'est une jeunesse éternelle,",
+				"C'est le ciel, la félicité."
+			]
+		}
+	]
+}
+

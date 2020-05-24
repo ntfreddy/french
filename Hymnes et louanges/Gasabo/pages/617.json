@@ -1,0 +1,46 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"L'Éternel seul est Seigneur,",
+				"Seul il est dominateur, (bis)",
+				"Sur les peuples de la terre;",
+				"Il est maître souverain,",
+				"Maître des ouvrages que sa main",
+				"Pour sa gloire a voulu faire."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Seigneur, Éternel!",
+				"Puissant Créateur,",
+				"Nous te louons. Amen!",
+				"Nous t'adorons. Amen!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Mais quel bienheureux mortel,",
+				"Au saint nom de l'Éternel, (bis)",
+				"Aura le droit de paraître?",
+				"Et quel homme, ô puissant Roi!",
+				"Seigneur, pour demeuner avec toi,",
+				"Assez juste pourrait être?"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"C'est l'homme qui dans son coeur,",
+				"Par ton Esprit, ô Seigneur! (bis)",
+				"Hait du péché les souillunes;",
+				"Qui, fuyant la fausseté,",
+				"Toujours te sert en sincérité,",
+				"Levant à toi des mains pures."
+			]
+		}
+	]
+}
+

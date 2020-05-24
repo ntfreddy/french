@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Pour le Seigneur, que peux-tu faire,",
+				"Petite main, petite main?",
+				"Je puis soulager la misère",
+				"Avec du pain, avec du pain."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Pour Jésus, que saurais-tu dire,",
+				"Bouche d'enfant, bouche d'enfant?",
+				"Je puis chanter, parfois sourire,",
+				"Prier souvent, prier souvent!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Et que ferez-vous pour sa gloire,",
+				"Petits yeux bleus, petits yeux bleus?",
+				"Nous lirons sa touchante histoire,",
+				"Très sérieux, très sérieux."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Ô coeur d'enfant, que veux-tu faire,",
+				"Pour le Seigneur, pour le Seigneur?",
+				"Je veux aimer mon divin Frère",
+				"Avec ardeur, avec ardeur!"
+			]
+		}
+	]
+}
+

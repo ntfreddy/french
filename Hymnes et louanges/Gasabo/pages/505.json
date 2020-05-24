@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Tout joyeux, bénissons le Seigneur,",
+				"Chantons et célébrons ses louanges,",
+				"Adorons avec foi le Sauveur,",
+				"Nous joignant aux célestes phalanges."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Gloire à Dieu! Gloire à Dieu!",
+				"Que ce chant retentisse en tout lieu!",
+				"Gloire à Dieu! Gloire à Dieu!",
+				"Que ce chant retentisse en tout lieu!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Dieu, dans son incomparable amour,",
+				"Du ciel envoya son Fils unique,",
+				"Et la terre et les cieux, dans ce jour,",
+				"S'unissent pour chanter ce cantique :"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Le châtiment qui produit la paix,",
+				"Jésus-Christ l'a subi pour mon âme;",
+				"Il voulut expier nos forfaits,",
+				"En mourant, Lui, sur le bois infâme."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Nous voulons en retour, bon Sauveur,",
+				"T'aimer par dessus toute autre chose,",
+				"Forme ton amour dans notre coeur",
+				"Et puis, de chacun de nous, dispose!"
+			]
+		}
+	]
+}
+

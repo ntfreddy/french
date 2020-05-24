@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Roi des rois, victime sainte",
+				"Qui mourus pour mes péchés,",
+				"Des disciples dans la crainte",
+				"Tu daignas laver les pieds,",
+				"Leur montrant dans ta bonté",
+				"La parfaite charité."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Saint repas! Sainte veillée",
+				"Où lon vit le Rédempteur",
+				"Donner à lâme souillée",
+				"Lespérance et le bonheur,",
+				"Et le Maître et le Seigneur",
+				"Devenir un serviteur!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Craindrais-tu donc, ô mon âme!",
+				"Dimiter en vérité",
+				"Celui qui de toi réclame",
+				"Une même humilité?",
+				"La volonté de ton Roi,",
+				"Cest le vrai bonheur pour toi."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Je voudrais, ô divin Maître!",
+				"Posséder ton grand amour;",
+				"Comme toi je voudrais être",
+				"Vraiment humble chaque jour.",
+				"Ô Jésus, que mon plaisir",
+				"Soit daimer et de servir!"
+			]
+		}
+	]
+}
+

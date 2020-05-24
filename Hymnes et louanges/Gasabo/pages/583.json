@@ -1,0 +1,48 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Sortons de l'école",
+				"Et n'oublions pas",
+				"La sainte Parole",
+				"Pour guider nos pas."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Dans cette journée",
+				"Servons le Seigneur;",
+				"Elle est destinée",
+				"À notre Sauveur."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Marchons dans sa crainte,",
+				"Dieu nous suit partout;",
+				"Oh! que sa voix sainte",
+				"Nous dirige en tout!"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Quand Dieu nous convie",
+				"À compter nos jours,",
+				"Pensons à la vie",
+				"Qui dure toujours."
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Chantons sa clémence,",
+				"Chantons sa grandeur;",
+				"Son amour immense",
+				"Nous donne un Sauveur."
+			]
+		}
+	]
+}
+

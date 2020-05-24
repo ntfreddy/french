@@ -1,0 +1,46 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Douce cloche, chante, chante,",
+				"Annonce le jour heureux,",
+				"Où la prière fervente",
+				"Des fidèles monte aux cieux."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Venons tous avec bonheur",
+				"À l'école du Seigneur."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Chante, douce cloche, chante,",
+				"Retentis dès le matin,",
+				"Ta voix est pure et charmante,",
+				"J'aime ton son argentin."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Sonne partout sur la terre",
+				"Annonce à tous le sabbat,",
+				"Le jour béni par le Père,",
+				"Qui rend fort dans le combat."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"L'heure fuit, le temps s'envole,",
+				"Accourons dans le saint lieu;",
+				"Avec joie à cette école,",
+				"Apprenons à louer Dieu."
+			]
+		}
+	]
+}
+

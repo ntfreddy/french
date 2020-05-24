@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"J'ai soif de ta présence",
+				"Divin chef de ma foi;",
+				"Dans ma faiblesse immense",
+				"Que ferais-je sans toi?"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Chaque jour, à chaque heure,",
+				"Oh! j'ai besoin de toi!",
+				"Viens, Jésus et demeure",
+				"Auprès de moi."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Des ennemis, dans l'ombre,",
+				"Rodent autour de moi;",
+				"Accablé par le nombre,",
+				"Que ferais-je sans toi?"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Pendant les jours d'orage,",
+				"D'obscurité, d'effroi,",
+				"Quand faiblit mon courage,",
+				"Que ferais-je sans toi?"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"O Jésus! ta présence",
+				"C'est la vie et la paix;",
+				"La paix dans la souffrance,",
+				"Et la vie à jamais."
+			]
+		}
+	]
+}
+

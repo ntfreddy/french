@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Le signal de la victoire",
+				"Déjà brille aux cieux,",
+				"La couronne de gloire",
+				"Paraît à nos yeux."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Je viens, combattez encore!",
+				"Dis Jésus à tous.",
+				"Oui, mon Sauveur, je t'implore,",
+				"Je lutte à genoux."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Que l'ennemi plein de rage,",
+				"Redouble ses coups,",
+				"Nous ne perdrons point courage,",
+				"Christ est avec nous ."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Suivons, amis, la bannière",
+				"Du Sauveur en croix.",
+				"Et que notre armée entière",
+				"Se range à sa voix."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Rude et longue est la mélée;",
+				"Voici le secours!",
+				"Dans nos mains, prenons l'épée",
+				"Qui vanquit toujours."
+			]
+		}
+	]
+}
+

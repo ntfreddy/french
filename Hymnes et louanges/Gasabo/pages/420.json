@@ -1,0 +1,56 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Déjà l'étoile",
+				"S'allume aux cieux",
+				"Et la nuit voile",
+				"Tout à mes yeux.",
+				"Mais, tendre Père,",
+				"Quand tout s'endort,",
+				"Dans ta lumière",
+				"Je suis encor."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Cette journée",
+				"Qui déjà meurt,",
+				"Je l'ai donnée",
+				"A toi, Seigneur.",
+				"J'ai pris sans crainte,",
+				"Serrant ta main,",
+				"De ta loi sainte",
+				"L'étroit chemin."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Sonde mes voies",
+				"Et mon amour,",
+				"Mes pleurs, mes joies",
+				"Pendant ce jour,",
+				"Et purifie,",
+				"Sauveur puissant,",
+				"Toute ma vie",
+				"Avec ton sang."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Jusqu'à l'aurore",
+				"Du jour qui vient,",
+				"Oh! sois encore",
+				"Mon sûr gardien.",
+				"Et jusqu'à l'heure",
+				"De mon départ,",
+				"Jésus, demeure",
+				"Mon seul rempart!"
+			]
+		}
+	]
+}
+

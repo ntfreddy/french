@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Il est là-bas, en Orient,",
+				"Des champs fleuris, des monts sublimes,",
+				"Des oliviers, plus d'un torrent,",
+				"De verts vallons, de hautes cines."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Témoins vivants du Fils de Dieu,",
+				"Quand vient le soir souffler la brise,",
+				"Contez les secrets de ce lieu",
+				"Afin qu'elle me le redise."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Et toi, hameau de Nazareth,",
+				"As-tu gardé, dans ton histoire,",
+				"Le souvenir dont t'honorait",
+				"L'Oint du Seigneur, le Roi de gloire?"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Vieille cité de Jéricho,",
+				"Antiques murs, vieux sycomore,",
+				"Le Christ éveille notre écho :",
+				"Dites, l'entendez-vous encore?"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Oh! redis-moi ce qu'il disait,",
+				"Figuier fécond et séculaire,",
+				"Quand lui, le Juste, agonisait,",
+				"Pour moi priant et solitaire."
+			]
+		}
+	]
+}
+

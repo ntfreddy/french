@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Bientôt le Seigneur va venir!",
+				"Es-tu prêt?",
+				"Bientôt le ciel, il veut t'ouvrir!",
+				"Es-tu prêt?"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Es-tu prêt?  Es-tu prêt?",
+				"Es-tu prêt pour l'éternité?",
+				"Es-tu prêt?  Es-tu prêt?",
+				"Le Seigneur t'a-t-il racheté?"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Bientôt l'appel retentira!",
+				"Es-tu prêt?",
+				"Bientôt la mort te surprendra!",
+				"Es-tu prêt?"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Bientôt Jésus va te juger!",
+				"Es-tu prêt?",
+				"Oh!  Devra-t-il te condamner?",
+				"Es-tu prêt?"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Bientôt dans le ciel enlevés!",
+				"Es-tu prêt?",
+				"Tous les élus seront sauvés!",
+				"Es-tu prêt?"
+			]
+		}
+	]
+}
+

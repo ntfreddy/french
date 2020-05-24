@@ -1,0 +1,32 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Elle n'est plus, elle est fanée,",
+				"Cette belle et charmante fleur;",
+				"Une seule et courte journée",
+				"À terni toute sa fraîcheur."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Ainsi se flétrie notre vie,",
+				"Elle s'échappe sans retour;",
+				"Comme la fleur de la prairie,",
+				"Son éclat ne dure qu'un jour."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Mais lorsque la fleur ainsi passe,",
+				"Et qu'à toujours meurt sa beauté,",
+				"Le Seigneur pour nous, dans sa grâce,",
+				"À préparé l'éternité."
+			]
+		}
+	]
+}
+

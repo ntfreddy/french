@@ -1,0 +1,40 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Mon Sauveur, mon divin Maître,",
+				"Pour toujours je suis à toi,",
+				"Tu possèdes tout mon être,",
+				"Purifie et blanchis-moi."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Dans la parfaite lumière,",
+				"Fais-moi marcher avec toi;",
+				"Règne sur ma vie entière,",
+				"Pour toujours sois tout pour moi!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Dans l'heureuse bergerie,",
+				"J'apprends à me décharger",
+				"Des fardeaux de cette vie,",
+				"Sur ton coeur, ô bon Berger!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Jésus, Sauveur adorable,",
+				"Que j'avance chaque jour",
+				"Sur le chemin véritable,",
+				"Dans la joie et dans l'amour!"
+			]
+		}
+	]
+}
+

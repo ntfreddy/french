@@ -1,0 +1,61 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Ô mon Sauveur! à toi seul je veux être,",
+				"Viens pour toujours habiter dans mon coeur;",
+				"Brise l'idole, et de ce coeur sois maître;",
+				"Rends-moi plus blanc que la neige, Seigneur!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Oui, par ton sang lave mon coeur,",
+				"Rends-moi plus blanc que la neige,",
+				"Ô Seigneur!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"En moi, Jésus, ne laisse aucune place",
+				"Où le peché se glisse en interdit.",
+				"Agneau de Dieu, que ton sang pur efface",
+				"Ce qui me vient de son pauvoir maudit."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Par ton Esprit, de ton trône de gloire",
+				"Tu viens en moi, misérable pécheur,",
+				"Pour remporter la complete victoire",
+				"Et nettoyer entièrement mon coeur."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Tu vois, Seigneur, j'attends, plein d'espérance,",
+				"Près de la croix où ton sang fut versé;",
+				"Là, j'ai reçu la nouvelle naissance,",
+				"Là, mon soupir fut toujours exaucé."
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Alléluia! ton image divine",
+				"En moi déjà reparait par la foi.",
+				"Béni sois-tu! de ma sainte origine",
+				"J'ai retrouvé tous les titres en toi."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Et, par ton sang, mon pauvre coeur",
+				"Devient plus blanc que la neige, ô Seigneur!"
+			]
+		}
+	]
+}
+

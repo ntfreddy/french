@@ -1,0 +1,56 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Au combat de la vie,",
+				"Conscrits et vitérans,",
+				"Le Seigneur nous convie;",
+				"Soldats! serrons nos rangs :",
+				"Qu'au divin Capitaine",
+				"Notre coeur soit uni;",
+				"La victoire est certaine,",
+				"Sous son drapeau béni."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"La Croix est sa bannière,",
+				"Son beau nom est Jésus.",
+				"Des armes de lumière",
+				"Il revêt ses élus.",
+				"Son esprit les enflamme",
+				"Au plus fort des combats;",
+				"Son âme est dans leur âme,",
+				"Sa force est dans leur bras."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Jeunesse ardente et fière,",
+				"Jeunesse au coeur vaillant,",
+				"Donne-toi tout entière",
+				"Au Sauveur tout-puissant;",
+				"Soumise à sa loi pure,",
+				"Tu mettras sous tes pieds",
+				"Tes péchés, ta souillure,",
+				"Par sa mart expiés."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Par sa grâce infinie",
+				"Il guérira tes maux :",
+				"Et la lutte finie,",
+				"Après bien des travaux,",
+				"Sur ton front qui rayonne",
+				"D'espoir et de clarté",
+				"Il mettra la couronne",
+				"De l'immortalité."
+			]
+		}
+	]
+}
+

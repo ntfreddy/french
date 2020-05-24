@@ -1,0 +1,56 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Je l'ai trouvé, je l'ai trouvé",
+				"Le bonheur ineffable",
+				"Je suis sauvé, je suis sauvé,",
+				"Ô joie inexprimable!",
+				"Tous mes péchés sont effacés;",
+				"Le sang de Christ me lave.",
+				"Les jours des larmes sont passés :",
+				"Je ne suis plus esclave!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Oh! quel bonheur! Oh! quel bonheur!",
+				"D'avoir Jésus pour Maître",
+				"Ô mon sauveur, mon seul Sauveur!",
+				"À toi seul je veux être!",
+				"Tu vins briser, puissant Vainqueur,",
+				"Du mal la tyrannie,",
+				"Affranchissant mon pauvre coeur",
+				"Et me donnant la vie!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Dans ton amour, tu m'as cherché,",
+				"Errant bien loin du Père!",
+				"Tu m'as sauvé de mon péché,",
+				"Tu fis de moi ton frère.",
+				"Et maintenant, et pour jamais,",
+				"Sous ton joug je me plie",
+				"Affranchissant mon pauvre coeur",
+				"Et me donnant la vie!"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Ah! laissez-moi chanter mon Roi;",
+				"Oui, qu'à genoux je chante!",
+				"Jésus n'est-il pas tout pour moi?",
+				"Gloire à sa croix sanglante!",
+				"Sans se lasser, jour après jour",
+				"Il m'aime, il m'aime encore",
+				"Comment répondre à tant d'amour?",
+				"Je crois, j'aime et j'adore."
+			]
+		}
+	]
+}
+

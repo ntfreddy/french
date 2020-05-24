@@ -1,0 +1,32 @@
+{
+	"stanzas":2,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Nous mourrons, mais pour renaître;",
+				"La mort n'est qu'un doux sommeil;",
+				"Bientôt Jésus va paraître :",
+				"Ce sera le grand réveil!",
+				"Des profondeurs de l'abîme,",
+				"De la tombe, noir séjour,",
+				"De la plaine et de la cime",
+				"Tous se lèveront un jour!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Nous mourrons, mais pour renaître,",
+				"Et quittant le froid tombeau,",
+				"Nous salûrons notre Maître",
+				"Au seuil d'un monde nouveau.",
+				"La mort, délaissant sa proie,",
+				"Fuira devant son retour,",
+				"Et de l'éternelle joie,",
+				"Pour nous brillera le jour!"
+			]
+		}
+	]
+}
+

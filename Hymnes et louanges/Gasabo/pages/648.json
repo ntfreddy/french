@@ -1,0 +1,50 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Levons-nous, Jésus-Christ nous appelle",
+				"Au saint combat de la foi;",
+				"Satan possède la citadelle",
+				"Où doit régner notre Roi."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Combattons pour notre Maître,",
+				"Luttons au nom du Dieu fort;",
+				"Par la foi nous pourrons être",
+				"Plus que vainqueurs de la mort (ter)",
+				"Par la foi nous pourrons être",
+				"Plus que vainqueurs de la mort."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"En tous lieux liniquité terrasse",
+				"Ceux qui meurent sans Jésus;",
+				"Brisons le lien qui les enlace,",
+				"Sauvons, sauvons les perdus."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Cherchons les âmes sans espérance",
+				"Qui ségarent dans la nuit;",
+				"Luttons, prions pour leur délivrance",
+				"Du mal, du péché maudit."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Déployons létendard invincible",
+				"De Jésus, le Roi de rois;",
+				"Triomphons de lennemi terrible,",
+				"Au nom du sang de la croix."
+			]
+		}
+	]
+}
+

@@ -1,0 +1,44 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Sauveur toujours fidèle,",
+				"Ami divin,",
+				"Que ta main fraternelle",
+				"Tienne ma main.",
+				"Prends-moi sous ton égide,",
+				"Conduis mes pas,",
+				"Que ton Esprit me guide",
+				"Jusqu'au trépas."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Dans les jours d'allégresse",
+				"Ou de douleur,",
+				"Seigneur, dans ta tendresse",
+				"Garde mon coeur.",
+				"Ta divine clémence,",
+				"Jour après jour,",
+				"Me donne l'assurance",
+				"De ton amour."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Si quelque noir nuage",
+				"Voile à mon coeur",
+				"Ton adorable image,",
+				"O mon Sauveur,",
+				"Ma prière fervente",
+				"Monte vers toi,",
+				"Et ta voix consolante",
+				"Me dit : « C'est moi! »"
+			]
+		}
+	]
+}
+

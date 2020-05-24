@@ -1,0 +1,56 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Debout, volontaires!",
+				"Pour les grands combats",
+				"De la sainte guerre,",
+				"Marche et ne crains pas.",
+				"Jésus-Christ t'engage",
+				"À lutter pour lui;",
+				"Rempli de courage,",
+				"Pars dès aujourd'hui."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"En route pour les saints combats!",
+				"En route!",
+				"Partez, vaillants soldats!",
+				"N'hésitez pas!",
+				"Le clairon sonne aux champs,",
+				"Pressez-vous dans les rangs.",
+				"En route pour les saints combats!",
+				"En route!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Partout sur la terre",
+				"Règne l'ennemi.",
+				"Contre lui, mon frère,",
+				"Combats sans merci.",
+				"Et pour la victoire",
+				"Sois fort et vaillant;",
+				"Pour le Roi de gloire,",
+				"Courage, en avant!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Pour le ciel, en route,",
+				"Soldat de la croix;",
+				"De ton Maître écoute",
+				"Sans cesse la voix.",
+				"Si l'orage gronde,",
+				"Il te gardera;",
+				"Si l'épreuve abonde,",
+				"Il te soutiendra."
+			]
+		}
+	]
+}
+

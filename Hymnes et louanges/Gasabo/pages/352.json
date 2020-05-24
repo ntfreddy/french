@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Jusqu'à la mort nous te serons fidèles;",
+				"Jusqu'à la mort, tu seras notre Roi.",
+				"Sous ton drapeau, Jésus, tu nous appelles;",
+				"Nous y mourrons en luttant avec foi!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Jusqu'à la mort! c'est notre cri de guerre.",
+				"Le libre cri d'un peuple racheté;",
+				"Jusqu'à la mort, nous aurons pour bannière",
+				"Ta croix sanglante, ô Christ ressuscité!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Pour toi, Jésus, on est heureux de vivre;",
+				"Tous les chemins avec toi semblent doux.",
+				"Agneau de Dieu, qui ne voudrait te suivre",
+				"Jusqu'à la mort, toi qui mourus pour nous?"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Mais, ô Sauveur!  tu sais notre faiblesse;",
+				"Nous tomberons sûrement en chemin.",
+				"Si tu ne viens accomplir ta promesse,",
+				"Jusqu'à la mort nous tenant par la main."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Que ton Esprit nous guide et nous anime,",
+				"Et que, sa flamme embrasant tous nos coeurs.",
+				"Nous devenions par toi, sainte Victime,",
+				"Sur la mort même un peuple de vainqueurs!"
+			]
+		}
+	]
+}
+

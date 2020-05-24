@@ -1,0 +1,32 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Je te suivrai, Jésus, mon Rédempteur, ",
+				"Aux jours mauvais comme aux jours de bonheur.",
+				"Je veux des maintenant marcher en ta présence,",
+				"Et mettre en toi mon espérance."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Je te suivrai partout comme un enfant, ",
+				"Humble, soumis et toujours confiant. ",
+				"Que les regards fixés sur la maison du Père,",
+				"J'avance en paix dans ta lumière."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Je te suivrai dans la sainte Cité, ",
+				"Par ton amour à jamais racheté ",
+				"Avec tous les élus, dans la gloire éternelle,",
+				"Je te loûrai, Sauveur fidèle."
+			]
+		}
+	]
+}
+

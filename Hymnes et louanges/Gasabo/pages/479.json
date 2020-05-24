@@ -1,0 +1,48 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Viens, viens à Jésus!",
+				"Il est l'ami fidèle,",
+				"Il pardonne au rebelle,",
+				"Oh! viens à Jésus!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Viens, viens à Jésus!",
+				"Il est l'amour suprême,",
+				"Viens à celui qui t'aime,",
+				"Oh! viens à Jésus!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Viens, viens à Jésus!",
+				"Il veut sauver ton âme.",
+				"Que ton coeur le réclame,",
+				"Oh! viens à Jésus!"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Viens, viens à Jésus!",
+				"Lui-même te convie,",
+				"Lui-seul donne la vie.",
+				"Oh! viens à Jésus!"
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Viens, viens à Jésus!",
+				"Sa promesse est fidèle;",
+				"Fuis la mort éternelle,",
+				"Oh! viens à Jésus!"
+			]
+		}
+	]
+}
+

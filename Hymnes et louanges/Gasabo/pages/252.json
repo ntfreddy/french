@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Viens à Jésus, il t'appelle",
+				"Il t'appelle aujourd'hui!",
+				"Trop longtemps tu fus rebelle;",
+				"Aujourd'hui, viens à lui!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Jésus t'aime, Jésus t'aime,",
+				"Jésus t'aime aujourd'hui.",
+				"Malgré ta misère extrême,",
+				"Aujourd'hui, viens à lui!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Il pardonne, il pardonne,",
+				"Il pardonne aujourd'hui!,",
+				"Reçois le salut qu'il donne;,",
+				"Aujourd'hui, viens à lui!,"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Il efface, il efface",
+				"Tes péchés aujourd'hui!",
+				"Ce jour est un jour de grâce;",
+				"Aujourd'hui, sois à lui!"
+			]
+		}
+	]
+}
+

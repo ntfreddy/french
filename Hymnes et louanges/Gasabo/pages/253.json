@@ -1,0 +1,47 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Reviens! Reviens!",
+				"Tu dissipas tes biens",
+				"Sur la terre étrangère",
+				"Loin des yeux de ton père;"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Ô pauvre enfant perdu, reviens!",
+				"Ô reviens!",
+				"Viens! Viens! Viens! Ô reviens!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Reviens! Reviens!",
+				"Loin de tous les faux biens,",
+				"Vois briller la lumière",
+				"Dans ta sombre misère."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Reviens! Reviens!",
+				"Du péché fuis les biens;",
+				"Que ton âme souffrante",
+				"Soit aussi repentante."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Reviens! Reviens!",
+				"Car pour toi sont des biens",
+				"Qu'aucun bien ne dépasse,",
+				"Le salut et la grâce."
+			]
+		}
+	]
+}
+

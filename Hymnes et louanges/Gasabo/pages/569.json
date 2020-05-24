@@ -1,0 +1,39 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Mon Sauveur, c'est par la foi",
+				"Que je m'approche de toi.",
+				"Quoi que m'apporte demain,",
+				"Ô Jésus, tiens ma main!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Oui, je te suivrai,  (bis)",
+				"Viens me diriger,",
+				"Jésus, bon Berger."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Si mon oeil s'appesantit,",
+				"Si mon pas se ralentit,",
+				"En comptant sur mon Sauveur,",
+				"Je prie avec ferveur."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Si l'épreuve et le péché,",
+				"Pour un moment t'ont caché,",
+				"Avec toi, je veux marcher,",
+				"Ô Jésus, sans broncher."
+			]
+		}
+	]
+}
+

@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Éternel Dieu, mon Sauveur et mon Père,",
+				"Je te bénis, je t'adore à genoux.",
+				"Quand mes péchés attiraient ta colère,",
+				"Ton grand amour détourna ton courroux.",
+				"Quand mes péchés attiraient ta colère,",
+				"Ton grand amour détourna ton courroux."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Je ne crains point; j'ai cette confiance",
+				"Que mon salut, c'est toi-même, ô mon Dieu!",
+				"L'hymne joyeux de ma reconnaissance",
+				"S'élève à toi jusque dans le saint lieu.",
+				"L'hymne joyeux de ma reconnaissance",
+				"S'élève à toi jusque dans le saint lieu."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Venez puiser aux sources de sa grâce,",
+				"Coeurs altérés de justice et de paix;",
+				"Là, le péché disparaît et s'efface",
+				"C'est le pardon, c'est la vie à jamais.",
+				"Là, le péché disparaît et s'efface",
+				"C'est le pardon, c'est la vie à jamais."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Louez son nom, célébrez sa mémoire;",
+				"Car il est grand, le Dieu qui nous sauva.",
+				"Dites partout sa clémence et sa gloire;",
+				"Magnifiez le Seigneur Jéhovah!",
+				"Dites partout sa clémence et sa gloire;",
+				"Magnifiez le Seigneur Jéhovah!"
+			]
+		}
+	]
+}
+

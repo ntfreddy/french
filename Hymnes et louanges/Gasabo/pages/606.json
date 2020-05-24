@@ -1,0 +1,38 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Gloire à mon Dieu, c'est lui qui me console;",
+				"Je sais qu'il m'aime et qu'il veut mon bonheur.",
+				"Que de beautés je trouve en sa Parole!",
+				"Mais la plus grande est l'amour du Sauveur."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Son grand amour, c'est le bonheur, ",
+				"Oh! je voudrais qu'il remplit tout mon coeur!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Ai-je quitté sa main dans ma folie?",
+				"Suis-je tombé dans la funeste erreur?",
+				"Mon coeur en lui sitôt se réfugie,",
+				"Mon seul asile est l'amour du Sauveur."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Oh! que vers Dieu monte mon chant suprême,",
+				"Pour le louer, le bénir chaque jour. ",
+				"Que l'univers entier, le méchant même, ",
+				"Chante aujourd'hui son merveilleux amour!"
+			]
+		}
+	]
+}
+

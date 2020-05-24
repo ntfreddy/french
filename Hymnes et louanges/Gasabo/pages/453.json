@@ -1,0 +1,52 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Plus de pleurs, plus de faux sourire,",
+				"Sur l'autre bord. (bis)",
+				"Plus de terreurs, plus de délire,",
+				"Plus de luttes, plus de martyre,",
+				"Après la mort. (bis)"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Repos, Amour,",
+				"Au doux séjour!",
+				"De ta venue, ô christ, hâte le jour!",
+				"(Amen !)"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Plus de foudre, plus de nuage, ",
+				"Sur l'autre bord. (bis)",
+				"Plus de fleurs que brise l'orage,",
+				"Plus de bonheurs qui font naufrage,",
+				"Après la mort. (bis)"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Plus d'hiver, plus de froide bise,",
+				"Sur l'autre bord. (bis)",
+				"Plus d'amis que le temps divise,",
+				"Plus d'adieux où le coeur se brise,",
+				"Après la mort. (bis)"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Bientôt Seigneur, très tôt peut-être,",
+				"Sur l'autre bord! (bis)",
+				"De loin nous Te verrons paraître",
+				"Pour nous recuillir, Tendre Maître,",
+				"Après la morts. (bis)"
+			]
+		}
+	]
+}
+

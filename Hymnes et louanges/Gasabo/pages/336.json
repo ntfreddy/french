@@ -1,0 +1,68 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Jésus-Christ est ma sagesse,",
+				"Il éclaire mon chemin,",
+				"Et je marche, en ma faiblesse,",
+				"Conduit par sa sûre main."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Il éclaire mon chemin, (bis)",
+				"Et je marche, en ma faiblesse,",
+				"Conduit par sa sûre main."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Jésus-Christ est ma justice;",
+				"Son sang a coulé pour moi;",
+				"Je trouve en son sacrifice",
+				"Paix et pardon par la foi."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Son sang a coulé pour moi, (bis)",
+				"Je trouve en son sacrifice",
+				"Paix et pardon par la foi."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Jésus-Christ me sanctifie;",
+				"Au divin Cep attaché,",
+				"Je reçois de lui la vie",
+				"Qui m'affranchit du péché."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"À toi, Jésus, attaché, (bis)",
+				"Je reçois de toi la vie",
+				"Qui m'affranchit du péché."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Jésus, en payant ma dette,",
+				"À grand prix m'a racheté,",
+				"Et déjà ma place est prête",
+				"Vers lui, pour l'éternité."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Jésus, tu m'as racheté, (bis)",
+				"Et déjà ma place est prête",
+				"Vers toi, pour l'éternité."
+			]
+		}
+	]
+}
+

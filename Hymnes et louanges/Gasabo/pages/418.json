@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Le soleil vers son déclin",
+				"Marche à pas rapides;",
+				"Et l'étoile luit enfin",
+				"Dans les cieux limpides."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Rêves, plaisirs enfiévrés",
+				"En vain nous enflamment;",
+				"Seuls les labeurs achevés",
+				"Donnent paix à l'âme."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Dieu veut que le travailleur",
+				"Goûte un doux relâche,",
+				"Pour qu'il puisse de bon coeur",
+				"Retrouver sa tâche."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Des clochers descend, le soir,",
+				"Une voix lointaine :",
+				"Gratitude et bon espoir,",
+				"Paix et foi sereine!"
+			]
+		}
+	]
+}
+

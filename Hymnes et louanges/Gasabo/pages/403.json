@@ -1,0 +1,56 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Marchons, frères, bon courage!",
+				"De Jésus suivons les pas!",
+				"Bravons les coups de lorage,",
+				"Du ciel il nous tend les bras."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Ne bâtissons plus sur le sable;",
+				"Laissons le terre et ses douleurs;",
+				"Ici-bas rien nest durable;",
+				"Espérons, vivons ailleurs!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Le Seigneur nous encourage,",
+				"Car nous voguons vers les cieux.",
+				"Aidons-nous dans le voyage,",
+				"Par Jésus victorieux."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Là-haut règne la lumière,",
+				"Dans la ville aux portes dor.",
+				"Notre âme, dans la prière,",
+				"Vers le ciel prend son essor."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Voici le port! cest la vie",
+				"Qui nous attend dans les cieux :",
+				"Vers Sion, vers la patrie,",
+				"Vole encor mon chant pieux."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Au ciel, au ciel est notre Père.",
+				"Vers lui cesseront nos douleurs;",
+				"Laissons les chants de la terre :",
+				"Notre espérance est ailleurs."
+			]
+		}
+	]
+}
+

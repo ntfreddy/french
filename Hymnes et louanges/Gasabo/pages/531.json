@@ -1,0 +1,40 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Écoutez l'appel du berger!",
+				"Il sait ses brebis en danger;",
+				"Il les appelle avec amour,",
+				"Espérant toujours leur retour."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Cherchons-les! Cherchons-les!",
+				"Savons-nous le prix d'une âme?",
+				"Cherchons-les! Cherchons-les!",
+				"Le bon berger les réclame."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Mourand de froid, de soif, de faim,",
+				"Les brebis appellent en vain.",
+				"Jésus nous veut pour les sauver,",
+				"Qui va l'aider à les trouver?"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Ne peut-il pas compter sur nous?",
+				"Ne voulons-nous pas aller tous",
+				"Dire à tous ceux qui sont perdus",
+				"Que nous les voulons pour Jésus?"
+			]
+		}
+	]
+}
+

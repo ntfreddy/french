@@ -1,0 +1,48 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Toi dont les cieux sont le vrai sanctuaire",
+				"Que l'espace et le temps ne peuvent contenir,",
+				"Descends, par ton Esprit, dans ce temple de pierre,",
+				"Où nous viendrons prier, adorer et bénir."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Que ta sainte Parole y soit seule annoncée!",
+				"Que ta voix dominant toutes les autres voix,",
+				"Troublant le coeur léger, calmant l'âme angoissée,",
+				"Les amène captifs, à l'ombre de la croix!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Que ton nom soit chanté sous ces voûtes bénies!",
+				"Qu'en y prêchant la grâce on proclame ta loi!",
+				"Qu'on t'aime en te craignant, ô Dieu qui nous convies",
+				"A ce suprême honneur du salut par la foi!"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Que le pain soit rompu sur cette table sainte,",
+				"Que la coupe sacrée abreuve les croyants;",
+				"Que leur nombre grandisse et que, dans cette enceinte,",
+				"Beaucoup d'aveugles-nés deviennent des voyants!"
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Fais-nous goûter ici, divin Maître des âmes,",
+				"Nos plaisirs les plus saints, nos instants les meilleurs;",
+				"Sur nos fronts inclinés, fais descendre tes flammes;",
+				"Un jour dans tes parvis vaut mieux que mille ailleurs!"
+			]
+		}
+	]
+}
+

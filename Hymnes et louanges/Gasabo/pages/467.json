@@ -1,0 +1,32 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Regarde au chemin du Calvaire;",
+				"Vois, c'est ton Sauveur dans l'émoi;",
+				"Buvant pour tous la cooupe amère,",
+				"Il va souffrir, et c'est pour toi."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Regarde ces hommes infâmes",
+				"Sur le bois attachant ton Roi.",
+				"Il font pleurer les saintes femmes...",
+				"Lui, tout bas, prie, et c'est pour toi."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Pour toi, Jésus vient sur la terre,",
+				"Et, livrant son âme à l'effroi,",
+				"Il vint mourir sur le Calvaire.",
+				"Pour toi, pécheur, rien que pour toi."
+			]
+		}
+	]
+}
+

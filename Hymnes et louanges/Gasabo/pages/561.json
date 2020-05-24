@@ -1,0 +1,40 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Je suis la lumière,",
+				"A dit le Seigneur",
+				"Avec moi, mon frère,",
+				"Ouvre-lui ton coeur."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Le monde est plein d'ombre :",
+				"Brillons, brillons bien,",
+				"Toi dans ton coin sombre,",
+				"Et moi dans le mien."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Si la pure flamme",
+				"Parfois baisse un peu,",
+				"Veillons sur notre âme,",
+				"Ravivons le feu."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Quand le jour se voile",
+				"Au clair firmament,",
+				"La plus humble étoile",
+				"Brille doucement."
+			]
+		}
+	]
+}
+

@@ -1,0 +1,56 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Dans Sion, pays de gloire,",
+				"Pourrons-nous entrer un jour?",
+				"Et proclamer la victoire",
+				"De Jésus le Roi d'amour?"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Oui, dans la sainte patrie,",
+				"Tous par Jésus-Christ lavés,",
+				"Chanteront, l'âme ravie,",
+				"L'amour qui les a sauvés."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Verrons-nous, joie infinie, ",
+				"Nos bien-aimés disparus? ",
+				"Reviendront-ils à la vie, ",
+				"À l'appel du Roi Jésus?"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Verrons-nous le Roi de gloire, ",
+				"Notre unique Rédempteur, ",
+				"Jouissant de sa victoire ",
+				"En puissant triomphateur?"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Poursuivons tous avec zèle ",
+				"Notre rude et saint labeur, ",
+				"Car dans la ville éternelle ",
+				"Nous attend le vrai bonheur."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Et dans la sainte patrie,",
+				"Par Jésus-Christ rachetés,",
+				"Pendant l'éternelle vie,",
+				"Nous chanterons ses bontés."
+			]
+		}
+	]
+}
+

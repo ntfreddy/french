@@ -1,0 +1,95 @@
+{
+	"stanzas":10,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Le Seigneur m'aime",
+				"Bonheur suprême,",
+				"Le Seigneur m'aime,",
+				"Il est amour."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Je redirai toujours :",
+				"Le Seigneur m'aime (bis)",
+				"Il est amour!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Dans la misère,",
+				"La plus amère,",
+				"Dans la misère",
+				"J'étais plongé."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Dans la souffrance,",
+				"Sans espérance,",
+				"Dans la souffrance",
+				"Je gémissais."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Portant ma peine,",
+				"Ma lourde chaîne,",
+				"Portant ma peine,",
+				"J'étais perdu."
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Dieu, dans sa grâce,",
+				"Prit à ma place,",
+				"Dieu dans sa grâce,",
+				"Prit son cher Fils."
+			]
+		},
+		{"label":"6",
+			"lines":[
+				"En sacrifice",
+				"À la justice,",
+				"En sacrifice",
+				"Il vint s'offrir."
+			]
+		},
+		{"label":"7",
+			"lines":[
+				"Le poids immense",
+				"De mon offense,",
+				"Le poids immense",
+				"Tomba sur lui."
+			]
+		},
+		{"label":"8",
+			"lines":[
+				"Sur le Calvaire",
+				"Loin de son Père,",
+				"Sur le Calvaire",
+				"Il vint mourir."
+			]
+		},
+		{"label":"9",
+			"lines":[
+				"Il purifie",
+				"Toute ma vie,",
+				"Il purifie",
+				"Avec son sang."
+			]
+		},
+		{"label":"10",
+			"lines":[
+				"À toi la gloire",
+				"Et la victoire,",
+				"À toi la gloire,",
+				"Agneau de Dieu."
+			]
+		}
+	]
+}
+

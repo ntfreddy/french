@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Viens à Jésus, quand la souffrance",
+				"Ou le remords troublent ton coeur;",
+				"Sans réserve et sans défiance,",
+				"Dis-lui ta faute et ta douleur"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Nul ne peut aimer comme il t'aime;",
+				"Ici-bas tout est passager;",
+				"Jésus seul est toujours le même,",
+				"Son amour ne saurait changer."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"La grâce pour toi surabonde :",
+				"Voici Jésus, l'Agneau de Dieu!",
+				"Il ôte le péché du monde,",
+				"Et répand la paix en tout lieu."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Pour consoler le coeur des hommes,",
+				"Parmi nous il a demeuré;",
+				"Et dans l'exil où tous nous sommes,",
+				"Il a souffert, il a pleuré."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"L'épreuve nous est salutaire,",
+				"Notre foi grandit sous nos pleurs :",
+				"Nous serons toujours sur la terre",
+				"Des étrangers, des voyageurs."
+			]
+		}
+	]
+}
+

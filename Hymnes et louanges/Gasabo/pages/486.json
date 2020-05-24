@@ -1,0 +1,39 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Des paroles de charmes pleines",
+				"Bouillonnent dans mon coeur,",
+				"Devant tes grâces souveraines,",
+				"Je m'incline, ô Seigneur!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Tout pour le Roi, de jour en jour,",
+				"Combat de foi, oeuvre d'amour, (bis)",
+				"Tout pour le Roi. (bis)"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Vaillant guerrier, ceins ton épée;",
+				"Sois vainqueur pour toujours!",
+				"Ta droite d'exploits signalée",
+				"Sera notre recours."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Vérité, douceur et justice",
+				"Règnent autour de toi :",
+				"À tous tu veux être propice...",
+				"Je t'adore, ô mon Roi!"
+			]
+		}
+	]
+}
+

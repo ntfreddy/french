@@ -1,0 +1,52 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Oh! pendant que pour eux l'Eglise est en prière,",
+				"Toi, notre divin Chef, prête-leur ton appui :",
+				"Que sur tes serviteurs, entrant dans la carrière,",
+				"Ton Esprit descende aujourd'hui!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Vous que le Roi des rois à son service appelle,",
+				"Confesseurs et témoins du Nom qui nous unit,",
+				"Recevez en ce jour une onction nouvelle;",
+				"Servez fidèlement un Maître si fidèle;",
+				"L'Église vous consacre et Jésus vous bénit."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Que des armes de Dieu l'Esprit-Saint vous revête,",
+				"Car la lice aujourd'hui s'ouvre devant vos pas;",
+				"Pendant que vers le ciel montent nos chants de fête,",
+				"L'ennemi vous observe, et dans l'ombre s'apprête",
+				"À vous livrer demain de périlleux combats."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Contre vous que le monde entier se coalise;",
+				"Que la lutte soit longue et l'ennemis jaloux;",
+				"Qu'importe? Votre chef, c'est le Chef de l'Église :",
+				"Soldats de Jésus-christ, la victoire est promise",
+				"À qui sent sa faiblesse et combat à genoux."
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"En avant, pour souffrir, pour aimer et pour croire!",
+				"Si la crainte parfois venait troubler vos coeurs,",
+				"Voyez briller là-haut la couronne de gloire;",
+				"Car ce n'est pas de vous que dépend la victoire :",
+				"C'est la grâce de Dieu qui vous rendra vainqueurs. Amen."
+			]
+		}
+	]
+}
+

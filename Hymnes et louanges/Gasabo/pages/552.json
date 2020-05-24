@@ -1,0 +1,32 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"À l'Éternel qu'on chante des cantiques,",
+				"Pour exalter ses oeuvres magnifiques;",
+				"Chantons du coeur",
+				"Le Créateur"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Jésus, jadis, bénit la simple enfance;",
+				"Rendons honneur, hommage à sa clémence;",
+				"Chantons du coeur",
+				"Ce bon Sauveur."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Si des enfants sont faibles les louanges;",
+				"Nous espérons, aux hymnes des saints anges,",
+				"Unir un jour",
+				"Nos chants d'amour."
+			]
+		}
+	]
+}
+

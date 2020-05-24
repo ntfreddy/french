@@ -1,0 +1,38 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Nos figitives années",
+				"Disparaissent sans retour,",
+				"Comme autant de fleurs fanées",
+				"Qui n'ont vécu qu'un seul jour.",
+				"Voyageur, hâte le pas :",
+				"Le temps presse et n'attend pas."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Le vent d'heure en heure efface,",
+				"Comme en des sables mouvants,",
+				"Notre passagère trace",
+				"Sur la terre des vivants.",
+				"Use de moments si courts :",
+				"Voyageur, marche toujours."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Prends courage et marche encore,",
+				"Car la patrie est ailleurs.",
+				"Là, dans l'immortelle aurore,",
+				"Plus d'angoisse, plus de pleurs.",
+				"Marche, voyageur d'un jour,",
+				"Jusqu'à l'éternel séjour."
+			]
+		}
+	]
+}
+

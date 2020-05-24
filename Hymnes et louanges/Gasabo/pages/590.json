@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Réveillez-vous fleurettes,",
+				"La neige a disparu;",
+				"Souriez, pâquerettes,",
+				"Le printemps est venu."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Semblables aux fleurettes,",
+				"Filles, garçons, à l'unisson,",
+				"Comme les vives alouettes,",
+				"Faisons retentir notre chanson."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Réveillez-vous, fleurettes,",
+				"Anémones des bois,",
+				"Tandis que les fauvettes",
+				"Nous charment de leur voix."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Réveillez-vous, fleurettes,",
+				"Le grand ciel est tout bleu;",
+				"Agitez vos clochettes,",
+				"Et prenez part au jeu."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Avec la terre entière",
+				"Célébrant ta bonté,",
+				"Que par nous, divin Père,",
+				"Ton nom soit exalté."
+			]
+		}
+	]
+}
+

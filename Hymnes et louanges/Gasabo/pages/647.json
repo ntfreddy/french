@@ -1,0 +1,52 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Le Seigneur nous appelle, ",
+				"Il nous veut pour messagers, ",
+				"Travaillons avec zèle, ",
+				"Ne craignons aucuns dangers."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Allons, messagers du grand Roi. ",
+				"En tous lieux révéler sa loi."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Oui, publions l'histoire ",
+				"De ce divin Roi d'amour, ",
+				"Et proclamons sa gloire ",
+				"Avant le déclin du jour."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Que sur tous les rivages ",
+				"Résonne le tendre appel, ",
+				"Les glorieux messages ",
+				"De l'Évangile éternel."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Répandons l'éloquente",
+				"Et sublime vérité.",
+				"La moisson éclatante",
+				"Mûrit pour l'éternité."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Hâtons-nous, messagers pieux, ",
+				"Voici le Roi qui vient des cieux."
+			]
+		}
+	]
+}
+

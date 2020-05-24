@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"La voix de tes sentinelles",
+				"Au loin déjà retentit;",
+				"Sur les cimes éternelles",
+				"L'aube du matin reluit!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Ô plénitude ineffable,",
+				"Transformés de jour en jour",
+				"Par ton Esprit adorable,",
+				"Nous vivons dans ton amour!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Ceux dont l'âme est languissante,",
+				"Ceux dont le coeur est troublé",
+				"Entendront sa voix puissante",
+				"Qui nous dit: «Je t'ai sauvé!»"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Avec des chants d'allégresse,",
+				"Les délivrés marcheront",
+				"Vers Sion; plus de tristesse,",
+				"Mais le bonheur sur leur front."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Ses promesses sont certaines,",
+				"Jésus a tout accompli;",
+				"Venez aux vives fontaines",
+				"D'où le salut a jailli!"
+			]
+		}
+	]
+}
+

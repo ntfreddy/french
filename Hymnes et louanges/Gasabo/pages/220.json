@@ -1,0 +1,48 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Je viens, Seigneur à ce baptême,",
+				"Où tu descendis avant moi,",
+				"Heureux de mourir à moi-même,",
+				"Afin de vivre comme toi."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Aux plaisirs, aux gloires du monde,",
+				"Je dis un Éternel adieu;",
+				"Je livre aux profondeurs de l'onde",
+				"Tout ce qui déplaît à mon Dieu."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Après tant d'erreurs et de chutes,",
+				"Tant de péchés et de remords,",
+				"Je renonce à mes vaines luttes",
+				"Et me réfugie en ta mort."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"C'est pour moi que tu l'as soufferte,",
+				"Victime sainte, Agneau très doux!",
+				"Pour moo ton âme fut offerte",
+				"Et ton corps meurtri par les clous."
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"À ton baptème, à ton calice,",
+				"Je veux avoir part en ce jour",
+				"Et goûter, dans le sacrifice,",
+				"La douceur de ton grand amour!"
+			]
+		}
+	]
+}
+

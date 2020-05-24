@@ -1,0 +1,53 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Je m'approche de toi, (bis)",
+				"Source de vie, (bis)",
+				"Mon Sauveur, bénis-moi",
+				"Source de vie, (bis)",
+				"Mon Sauveur, bénis-moi"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Fais silence en mon coeur, (bis)",
+				"Viens et me parle (bis)",
+				"Ô mon divin Sauveur!",
+				"Viens et me parle (bis)",
+				"Ô mon divin Sauveur!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Rends-moi conforme à toi, (bis)",
+				"Divin modèle, (bis)",
+				"Mets ton image en moi!",
+				"Divin modèle, (bis)",
+				"Mets ton image en moi!"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Rends-moi bouillant, Seigneur! (bis)",
+				"Pour ton service, (bis)",
+				"Que je parte en vainqueur!",
+				"Pour ton service, (bis)",
+				"Que je parte en vainqueur!"
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Et quand tu reviendras, (bis)",
+				"Dans tes milices, (bis)",
+				"Tu me retrouveras!",
+				"Dans tes milices, (bis)",
+				"Tu me retrouveras!"
+			]
+		}
+	]
+}
+

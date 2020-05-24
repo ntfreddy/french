@@ -1,0 +1,38 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Jésus est au milieu de nous,",
+				"Son regard s'abaisse sur nous,",
+				"Sa douce voix, l'entendez-vous?",
+				"Je veux vous bénir tous!   (bis)",
+				"Sa douce voix, l'entendez-vous?",
+				"Je veux vous bénir tous!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Jésus est au milieu de nous,",
+				"Son regard s'abaisse sur nous,",
+				"Sa douce voix, l'entendez-vous?",
+				"Je veux vous sauver tous!   (bis)",
+				"Sa douce voix, l'entendez-vous?",
+				"Je veux vous sauver tous!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Jésus est au milieu de nous,",
+				"Son regard s'abaisse sur nous,",
+				"Sa douce voix, l'entendez-vous?",
+				"Oh! je vous aime tous!   (bis)",
+				"Sa douce voix, l'entendez-vous?",
+				"Oh je vous aime tous!"
+			]
+		}
+	]
+}
+

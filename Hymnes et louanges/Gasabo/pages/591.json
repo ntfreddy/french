@@ -1,0 +1,40 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Mon Sauveur est vêtu de fin lin",
+				"Et de myrrhe embaumé.",
+				"Au milieu du céleste jardin,",
+				"Les cieux l'ont acclamé."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"De ses merveilleux palais d'ivoire,",
+				"Dans ce monde perdu,",
+				"Après avoir quitté la gloire,",
+				"Jésus est descendu."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Alors il a connu la douleur,",
+				"Et l'aloès amer.",
+				"Ce fut pour nous sauver du malheur,",
+				"À jamais de l'enfer."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"De cassia ses habits royaux",
+				"Ont dû se recouvrir;",
+				"Il a bien voulu porter nos maux",
+				"Pour pouvoir les guérir."
+			]
+		}
+	]
+}
+

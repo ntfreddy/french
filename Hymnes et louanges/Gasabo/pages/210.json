@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Seigneur Jésus! une vaste carrière",
+				"S'ouvre aux travaux des messagers de paix",
+				"De l'Évangile ils portent les bienfaits",
+				"Aux malheureux privés de sa lumière.",
+				"À leurs efforts donne un succès heureux;",
+				"Nous te prions pour eux."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Lorsque partout ces messagers fidèles,",
+				"O Rédempteur! proclameront ta croix,",
+				"Dans les palais, en présence des rois,",
+				"Dans les déserts, dans les îles nouvelles,",
+				"À leurs efforts donne un succès heureux;",
+				"Nous te prions pour eux."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Quand sous les feux que l'Africain respire,",
+				"Ou sous la glace où l'Esquimau s'endort,",
+				"Pour arracher des âmes à la mort,",
+				"Ils tenteront de fonder ton empire,",
+				"À leurs efforts donne un succès heureux;",
+				"Nous te prions pour eux."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Pour les combats prépare leur courage!",
+				"Qu'en acceptant ta sainte volonté,",
+				"Dans le bonheur ou dans l'adversité,",
+				"À leur Sauveur ils rendent témoignage :",
+				"À leurs efforts donne un succès heureux;",
+				"Nous te prions pour eux."
+			]
+		}
+	]
+}
+

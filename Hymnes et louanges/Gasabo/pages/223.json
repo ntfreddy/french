@@ -1,0 +1,46 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Seigneur Jésus, divin chef de l'Église",
+				"Que ton Esprit rend féconde en tout temps,",
+				"Vois à tes pieds, vois ces nouveaux enfants :",
+				"Que ta promesse en eux se réalise!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Entends du ciel leurs soupirs et nos voeux :",
+				"Seigneur Jésus, nous te prions pour eux! (bis)"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Quand l'ennemi, connaissant leur faiblesse,",
+				"Des droits sentiers voudra les détourner,",
+				"Que rien alors ne les puisse entraîner,",
+				"Et qu'à toi soul ils s'attendent sans cesse."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"De ton pardon donne-leur l'assurance;",
+				"Enseigne-leur à marcher par la foi :",
+				"Se souvenant que leur force est en toi,",
+				"Qu'ils soient remplis d'une humble vigilance."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Fais que leur âme, à tes lois asservie,",
+				"Seigneur, accepte et la joie et les pleurs;",
+				"Fais que leurs noms, écrits dans tous nos coeurs,",
+				"Le soient aussi dans le livre de vie!"
+			]
+		}
+	]
+}
+

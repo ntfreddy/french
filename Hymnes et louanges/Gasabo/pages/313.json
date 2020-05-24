@@ -1,0 +1,48 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Mon Dieu, nos coeurs prompts au murmure",
+				"Souvent redisent, abattus :",
+				"« Trouverons-nous la nourriture,",
+				"Et nos corps seront-ils vêtus ? »"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Il ne sème ni ne moissonne,",
+				"L'oiseau qui vole vers les cieux :",
+				"Des biens que ta bonté lui donne",
+				"Il vit en paix, libre et joyeux."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Aux champs, la plus humble semence,",
+				"Par tes soins, fleurit sans travaux,",
+				"Et Salomon, dans sa puissance,",
+				"N'eut pas de vêtements plus beaux."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Si tu revêts l'herbe fleurie,",
+				"Si tu nourris l'oiseau des cieux,",
+				"N'auras-tu pas soin de ma vie?",
+				"Tu m'as fait plus excellent qu'eux."
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Dieu tout-puissant, qui m'es propice,",
+				"Je veux t'invoquer chaque jour,",
+				"Chercher ton règne et ta justice :",
+				"J'obtiendrai tout de ton amour."
+			]
+		}
+	]
+}
+

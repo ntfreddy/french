@@ -1,0 +1,58 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"En ce triste monde, aucune puissance",
+				"Ne peut m'apporter le bonheur;",
+				"Mais de mon Sauveur la sainte présence",
+				"Donne paix et joie à mon coeur.",
+				"Mais de mon Sauveur la sainte présence",
+				"Donne paix et joie à mon coeur."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Dans les jours mauvais, quand gronde l'orage,",
+				"J'implore le secours divin.",
+				"Mon Sauveur me donne et force et courage",
+				"Pour continuer mon chemin.",
+				"Mon Sauveur me donne et force et courage",
+				"Pour continuer mon chemin."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Lorsque dans la nuit nul rayon n'éclaire",
+				"Le chemin où je dois marcher,",
+				"Dans l'ombre soudain jaillit la lumière,",
+				"Et sa voix vient me rassurer.",
+				"Dans l'ombre soudain jaillit la lumière,",
+				"Et sa voix vient me rassurer."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Malgré mes erreurs, iI soutient ma vie,",
+				"Il me comble de ses bontés;",
+				"Je serai biontôt au ciel, ma patrie,",
+				"Au séjour de ses rachetés.",
+				"Je serai biontôt au ciel, ma patrie,",
+				"Au séjour de ses rachetés."
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Ô jour merveilloux, lorsque avec les anges,",
+				"Dans le ciel, tes heureux élus",
+				"Pourront entonner l'hymne de louanges,",
+				"À ta gloire, ô Seigneur Jésus!",
+				"Pourront entonner l'hymne de louanges,",
+				"À ta gloire, ô Seigneur Jésus!"
+			]
+		}
+	]
+}
+

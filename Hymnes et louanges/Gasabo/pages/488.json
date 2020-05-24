@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Comme un enfant qui sert son père",
+				"Avec amour, avec bonheur,",
+				"Je veux t'aimer, je veux te plaire,",
+				"Te servir, ô Dieu, mon Sauveur!",
+				"Je veux t'aimer, je veux te plaire,",
+				"Te servir, ô Dieu, mon Sauveur!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Comme un enfant, je veux sans crainte",
+				"Te livrer mon coeur à toujours,",
+				"Accomplir ta volonté sainte,",
+				"Compter sur ton divin secours.",
+				"Accomplir ta volonté sainte,",
+				"Compter sur ton divin secours."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Ô viens, par ta puissante grâce,",
+				"Affermir en moi ce désir!",
+				"Fais-moi marcher devant ta face,",
+				"Humble et joyeux de t'obéir.",
+				"Fais-moi marcher devant ta face,",
+				"Humble et joyeux de t'obéir."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"De ton Esprit remplis mon âme,",
+				"De ton amour remplis mon coeur;",
+				"Qu'en moi toujours brûle la flamme",
+				"Du saint zèle et de la ferveur.",
+				"Qu'en moi toujours brûle la flamme",
+				"Du saint zèle et de la ferveur."
+			]
+		}
+	]
+}
+

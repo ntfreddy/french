@@ -1,0 +1,56 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Bon Sauveur, Berger fidèle,",
+				"Conduis-nous par ton amour;",
+				"Et de ta main paternelle",
+				"Nourris-nous au jour le jour."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Béni sois-tu, tendre Maître,",
+				"Jésus, nous sommes à toi,",
+				"Àà toi seul nous voulons être,",
+				"Béni sois-tu, notre Roi"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Dans tes riches pâturages",
+				"Apprends-nous à te chercher;",
+				"Que sous tes divins ombrages",
+				"Nous sachions toujours marcher."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Toi qui nous reçus par grâce,",
+				"Bien que faibles et pécheurs,",
+				"Par ta puissance efficace",
+				"Purifie encor nos coeurs."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Seigneur, nous voulons te plaire,",
+				"T'obéir, garder ta loi :",
+				"Oh! pour cela daigne faire",
+				"Que nous vivions par la foi."
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Bon Sauveur, Berger fidèle,",
+				"Pour que nous suivions tes pas,",
+				"Remplis-nous d'un nouveau zèle",
+				"Et porte-nous dans tes bras."
+			]
+		}
+	]
+}
+

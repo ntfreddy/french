@@ -1,0 +1,40 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Dans l'eau fraîche et limpide,",
+				"Je lave mes deux mains;",
+				"Puis à Jésus, mon guide,",
+				"J'accours tous les matins."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Petit pied, prends garde",
+				"Où tu me conduis!",
+				"Jésus me regarde",
+				"Partout où je suis"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Je veux prêter l'oreille",
+				"À la voix du Sauveur,",
+				"Et dès que je m'éveille",
+				"Lui donner tout mon coeur."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Comme une sentinelle,",
+				"Les yeux sur le danger,",
+				"Je veux rester fidèle",
+				"Et plaire au bon berger."
+			]
+		}
+	]
+}
+

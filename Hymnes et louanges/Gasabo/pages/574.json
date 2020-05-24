@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Tant qu'il vit, tant qu'il règne,",
+				"Mon tout-puissant ami,",
+				"Il n'est rien que mon âme craigne;",
+				"Je me sens à l'abri."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Berger fidèle et tendre,",
+				"Il conduit ses agneaux",
+				"Dans les prés où viennent s'épandre",
+				"Les célestes ruisseaux."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Qu'importent la nuit sombre,",
+				"Le lion qui rugit!",
+				"Je sais que mon Berger dans l'ombre",
+				"Me regarde et me suit."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Si ma route est glissante",
+				"Et mon pas incertain,",
+				"Je m'appuie à sa main puissante",
+				"Et poursuis mon chemin."
+			]
+		}
+	]
+}
+

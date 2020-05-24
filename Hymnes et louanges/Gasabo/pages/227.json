@@ -1,0 +1,40 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Agneau, victime expiatoire!",
+				"Nous contemplons ta charité,",
+				"Ta mort sanglante et ta victoire",
+				"Pour nous, ton peuple racheté."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Réunis autour de ta table,",
+				"Nos coeurs celèbrent ton amour,",
+				"En t'adorant, ô Sauveur charitable!",
+				"Nous attendons ton glorieux retour."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Enfants d'une race coupable,",
+				"Nous avons trouvé dana ta croix",
+				"Parfaite paix, grâce ineffable,",
+				"Joie et force tout à la fois."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"En toi revêtus de justice,",
+				"Lavés dans ton sang précieux,",
+				"Nous rappelons ton sacrifice",
+				"Qui nous ouvrit l'accès des cieux."
+			]
+		}
+	]
+}
+

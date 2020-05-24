@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"En quelque lieu que tu me mènes.",
+				"Seigneur, que je sois avec toi.",
+				"Sentier de bonheur ou de peines,",
+				"Quil soit toujours sentier de foi."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Que je fasse ma nourriture",
+				"De ta Parole, ô Jésus-Christ!",
+				"Et que sans plainte, sans murmure,",
+				"Je marche selon ton Esprit."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Quand le vent agite les ondes,",
+				"Quand des mers il trouble la paix,",
+				"Il est des eaux, des eaux profondes,",
+				"Que sa fureur natteint jamais."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Ainsi quand le monde lagite,",
+				"Le croyant retrouve en son coeur,",
+				"Où la paix de son Maître habite,",
+				"Quelque tranquille profondeur."
+			]
+		}
+	]
+}
+

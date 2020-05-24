@@ -1,0 +1,37 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Aux jours d'angoisse et de souffrance,",
+				"Quand le coeur est rempli d'effroi,",
+				"Jésus dit : «Ayez confiance, venez à moi»"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Lorsque soudain survient l'orage,",
+				"Que nul abri ne s'offre à toi,",
+				"De Jésus entends le message : «Venez à moi !»"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Quand le péché te sollicite,",
+				"Quand tu sens vaciller ta foi,",
+				"Écoute sa voix qui t'invite : «Venez à moi !»"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Il nous pardonne, Il nous console,",
+				"Il prend sur Lui tous nos fardeaux,",
+				"Et nous trouvons à son école",
+				"Le vrai repos."
+			]
+		}
+	]
+}
+

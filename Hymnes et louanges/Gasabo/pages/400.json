@@ -1,0 +1,53 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Je ne sais pas le jour où je verrai mon Roi,",
+				"Mais je sais qu'il me veut dans sa sainte demeure;",
+				"La lumière vaincra les ombres à cette heure:",
+				"Ce sera la gloire pour moi."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Ce sera la gloire pour moi. (bis)",
+				"La lumière vaincra les ombres à cette heure :",
+				"Ce sera la gloire pour moi."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Je ne sais quels seront les chants des bienheureux,",
+				"Les accents, les accords des hymnes angéliques,",
+				"Mais je sais que, joignant ma voix aux saints cantiques,",
+				"Bientôt j'adorerai comme eux."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Bientôt j'adorerai comme eux. (bis)",
+				"Mais je sais que, joignant ma voix aux saints cantiques,",
+				"Bientôt j'adorerai comme eux."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Je ne sais quel sera le palais éternel,",
+				"Mais je sais que mon âme y sera reconnue.",
+				"Un regard de Jésus sera ma bienvenue.",
+				"Pour moi, pour moi s'ouvre le ciel."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Pour moi, pour moi s'ouvre le ciel. (bis)",
+				"Un regard de Jésus sera ma bienvenue.",
+				"Pour moi, pour moi s'ouvre le ciel."
+			]
+		}
+	]
+}
+
