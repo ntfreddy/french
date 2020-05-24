@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Descends, Esprit du Dieu vivant",
+				"Sur notre pauvre race.",
+				"Qui s'est perdue en poursuivant",
+				"L'illusion qui passe!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Donne-nous des langues de feu,",
+				"La voix surnaturelle",
+				"Qui ramène les coeurs à Dieu",
+				"Par la bonne nouvelle!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"De nos ténèbres, fais le jour,",
+				"Du chaos, l'harmonie;",
+				"Chasse la haine par l'amour,",
+				"Et la mort par la vie!"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Au-dessus des peuples divers,",
+				"Que la croix resplendisse;",
+				"Au nom du Christ, dans l'univers,",
+				"Que tout genou fléchisse! "
+			]
+		}
+	]
+}
+

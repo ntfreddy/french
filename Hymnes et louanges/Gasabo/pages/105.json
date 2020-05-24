@@ -1,0 +1,52 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Sauveur divin, ton amour précieux",
+				"T'a fait quitter le ciel,",
+				"Le bonheur éternel,",
+				"pour me rendre joyeux."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Divin Sauveur,",
+				"Je te livre mon coeur,",
+				"Oh! prends ma vie,",
+				"Elle est à toi;",
+				"Jusqu'à la mort,",
+				"Tu seras mon lieu fort,",
+				"Ta croix bénie",
+				"Soutient ma foi. "
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Agneau parfait, tu te laissas meurtrir,",
+				"Ah! pourquoi, Dieu Sauveur,",
+				"Pour moi, pauvre pécheur,",
+				"Fallait-il tant souffrir?"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Suprême Ami, tu vainquis le tombeau,",
+				"Sur ton oeuvre d'amour,",
+				"Au céleste séjour,",
+				"L'Éternel mit son sceau."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Mon Rédempteur, ne viendras-tu pas",
+				"Prendre bientôt à toi,",
+				"Au grand jour de ma foi,",
+				"Ton faible enfant si las? "
+			]
+		}
+	]
+}
+

@@ -1,0 +1,52 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Du ciel bientôt, Jésus va revenir!",
+				"Si c'était aujourd'hui!",
+				"Tous, radieux, nous le verrons venir!",
+				"Si c'était aujourd'hui!",
+				"Alors tous les saints à sa vue,",
+				"Ses enfants sûrs de sa venue,",
+				"Iront avec Lui sur la nue,",
+				"Si c'était aujourd'hui!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Gloire! Gloire! Jésus revient bientôt!...",
+				"Gloire! Gloire! Nous le couronnerons!...",
+				"Gloire! Gloire! Et nous l'adorerons!",
+				"Gloire! Gloire! Jésus revient bientôt!..."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Dans ce beau ciel, le mal ne sera plus!",
+				"Si c'était aujourd'hui!",
+				"Plus de douleur... le regard de Jésus!",
+				"Si c'était aujourd'hui!",
+				"Notre âme après ce jour soupire...",
+				"Mais déjà la nuit se retire,",
+				"Le grand matin va bientôt luire!",
+				"Si c'était aujourd'hui!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Oh! Que Jésus trouve en nous des coeurs droits,",
+				"S'il revient aujourd'hui!",
+				"Veillant, priant, dociles à sa voix,",
+				"S'il revient aujourd'hui !",
+				"Avons-nous tous cette assurance",
+				"D'être enlevés en sa présence,",
+				"Dans le séjour de sa puissance,",
+				"S'il revient aujourd'hui? "
+			]
+		}
+	]
+}
+

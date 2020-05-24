@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Livre sacré, lumière étincelante",
+				"Qui de la nuit perce l'obscurité,",
+				"Révèle à tous, ta beauté rayonnante,",
+				"Et dans les coeurs fais briller ta clarté. "
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Livre divin, ô céleste message",
+				"De vérité, de justice et d'amour,",
+				"Conduis mes pas dans le pèlerinage",
+				"Où vers le ciel, j'avance chaque jour."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Comment sans toi reconnaître la route",
+				"Et discerner les pièges du malin?",
+				"C'est toi qui seul peux dissiper le doute",
+				"Et du salut indiquer le chemin."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Rassure-moi quand mon âme est tremblante.",
+				"Console-moi dans les jours de douleurs.",
+				"Si je faiblis quand la lutte est ardente,",
+				"Montre à ma foi Celui qui rend vainqueur."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Ô Sainte Bible, ô Parole immortelle,",
+				"Sois ici-bas, mon guide et mon flambeau;",
+				"Par toi je vois la patrie éternelle,",
+				"Où les élus donnent gloire à l'Agneau. "
+			]
+		}
+	]
+}
+

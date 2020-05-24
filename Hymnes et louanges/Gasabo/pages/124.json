@@ -1,0 +1,40 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Réponds à ma prière, ",
+				"Esprit saint et puissant,",
+				"Et verse ta lumière ",
+				"Dans mon coeur ignorant."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Esprit qui vivifie,",
+				"Répands ta vie en moi,",
+				"Réveille et sanctifie",
+				"Mon coeur qui croit en toi!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Parle à ma conscience,",
+				"Convaincs-moi de péché,",
+				"Et mets en évidence",
+				"Le mal le plus caché!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Et si tu viens surprendre",
+				"En moi quelque interdit,",
+				"Oh! fais-le moi comprendre, ",
+				"Sonde mon coeur contrit. "
+			]
+		}
+	]
+}
+

@@ -1,0 +1,40 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Ô chère école du sabbat,",
+				"Ma joie et mon bonheur,",
+				"Tu me rends fort dans le combat,",
+				"Bouillant pour le Seigneur."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Parle-moi, Seigneur Jésus,",
+				"Viens raffermir ma foi.",
+				"À ton école près de toi,",
+				"Je ne chancelle plus."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Jour après jour, par tes leçons",
+				"Viens enrichir mon coeur,",
+				"Et montre-moi les horizons",
+				"De gloire et de splendeur."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Que par toi le Livre de Dieu",
+				"Dévoile ses secrets,",
+				"Ô ma chère école, en tout lieu",
+				"Tu répands tes bienfaits. "
+			]
+		}
+	]
+}
+

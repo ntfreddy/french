@@ -1,0 +1,50 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Redites-moi l'histoire",
+				"De l'amour de Jésus;",
+				"Parlez-moi de la gloire",
+				"Qu'il promet aux élus.",
+				"J'ai besoin qu'on m'instruise,",
+				"Car je suis ignorant,",
+				"Qu'à Christ on me conduise",
+				"Comme un petit enfant."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Redites-moi l'histoire (ter)",
+				"De l'amour de Jésus."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Redites-moi l'histoire",
+				"De la crèche à la croix;",
+				"Éveillez ma mémoire,",
+				"Oublieuse parfois.",
+				"Cette histoire si belle,",
+				"Dites-la simplement;",
+				"Elle est toujours nouvelle,",
+				"Répétez-la souvent. "
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Redites-moi l'histoire",
+				"De mon divin Sauveur ;",
+				"C'est lui, dont la victoire",
+				"Affranchit le pécheur.",
+				"Ce glorieux message,",
+				"Oh! redites-le moi,",
+				"Lorsque je perds courage,",
+				"Lorsque faiblit ma foi. "
+			]
+		}
+	]
+}
+

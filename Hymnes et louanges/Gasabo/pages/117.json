@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Or, vers minuit se fit entendre",
+				"Un cri disant : « Voici l'Époux! »",
+				"C'est Jésus, voyez-le descendre!",
+				"Autour de lui rallions-nous."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Que l'Église aujourd'hui s'apprête",
+				"Pour l'heure de ce rendez-vous,",
+				"C'est la veille d'un jour de fête :",
+				"Voici l'Époux, voici l'Époux! "
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Ce cri, Seigneur! à nos oreilles",
+				"Retentit souvent de nos jours;",
+				"Tu viendras terminer nos veilles",
+				"Et nous délivrer à toujours. "
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Cette espérance glorieuse",
+				"Ranime nos coeurs abattus.",
+				"Oh! quelle perspective heureuse",
+				"D'être bientôt avec Jésus!"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Tes morts aussi, de leur poussière,",
+				"Entendront ta voix comme nous,",
+				"Et comme nous, loin de la terre,",
+				"Iront au-devant de l'Époux. "
+			]
+		}
+	]
+}
+

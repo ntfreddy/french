@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"L'Église est étrangère ",
+				"Maintenent, ici-bas; ",
+				"Mais bientôt sur la terre ",
+				"Cesseront ses combats. "
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Oui, le repos s'epprête ",
+				"Et le ciel va s'ouvrir;",
+				"Levons, levons la tête;",
+				"Le seigneur va venir. "
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"C'est un époux, un frère, ",
+				"C'est un roi glorieux,",
+				"Éclatant de lumière,",
+				"Oui descendra des cieux."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Quelques instants encore :",
+				"Nous verrons son retour. ",
+				"Déjà blanchit l'aurore ",
+				"De ce bienheureux jour."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Viens! ton peuple fidèle,",
+				"Les yeux fixés en haut,",
+				"Te désire et t'appelle :",
+				"Viens, Jésus! viens bientôt! "
+			]
+		}
+	]
+}
+

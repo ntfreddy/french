@@ -1,0 +1,53 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Aimer, oui, c'est régner! On est roi quand on aime, ",
+				"Car rien ne se dérobe à ce charme suprème.",
+				"L'amour est le sceptre du ciel. ",
+				"Amour, tel est l'emblème",
+				"Inscrit sur l'étendard du Prince Emmanuel!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Aimer, dès ici-bas, du pur amour des anges,",
+				"C'est rendre au Créateur son tribut de louanges;",
+				"C'est mêler sa voix aux concerts",
+				"Des célestes phalanges,",
+				"C'est accepter la loi qui régit l'univers."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Aimer, c'est pénétrer d'insondables abimes,",
+				"Élever sa pensée à des hauteurs sublimes,",
+				"Bien plus haut que l'aigle royal",
+				"Des lumineuses cimes,",
+				"Atteindre l'infini, conquérir l'idéal."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Aimer, c'est cultiver en soi la fleur cachée",
+				"Au suave parfum que nul vent n'a séchée,",
+				"Et c'est la perle qu'on chérit,",
+				"Que d'autres ont cherchée.",
+				"L'amour est la rose exquise de l'Esprit."
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Dans l'amour, c'est le joug qui devient moins pénible,",
+				"Rien n'est trop rigoureux, et rien n'est impossible.",
+				"Par lui le sacrifice est doux,",
+				"La victoire accessible.",
+				"O frères, pour lutter et pour vaincre, aimons-nous! "
+			]
+		}
+	]
+}
+

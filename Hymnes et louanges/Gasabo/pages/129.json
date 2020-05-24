@@ -1,0 +1,48 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Esprit très saint, puissant souffle de vie!",
+				"Dont la vertu dans les coeurs glorifie",
+				"Du Rédempteur l'immense charité,",
+				"Descends sur nous, Esprit de vérité! (bis) "
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Toi qui nous peins Jésus, l'Agneau victime",
+				"S'offrant à Dieu pour expier le crime,",
+				"Esprit d'amour! toi qui dis au pécheur :",
+				"« Sur cette croix, reconnais le Sauveur! » (bis)"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Viens déployer ta puissante efficace",
+				"Sur tes enfants, altérés de ta grâce;",
+				"Souffle en tous lieux, ô vent de l'Éternel!",
+				"Viens ranimer les os secs d'Israël! (bis)"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Consolateur gue Jésus nous envoie!",
+				"Oh! remplis-nous de ta céleste joie;",
+				"Affermis-nous et nous maintiens ta paix;",
+				"Veuille en nous tous demeurer à jamais! (bis)"
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Guide assuré de celui qui t'écoute!",
+				"Conduis nos pas dans la divine route;",
+				"Ranime en nous ta lumière et ton feu,",
+				"Fais de nos coeurs de vrais temples de Dieu! (bis) "
+			]
+		}
+	]
+}
+

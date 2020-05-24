@@ -1,0 +1,53 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"L'astre à l'horizon descend",
+				"Sur les monts l'ombre s'étend.",
+				"Veillons pendant que la nuit",
+				"Au ciel allume sans bruit",
+				"Ses lampes d'or."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Gloire, gloire à l'Éternel,",
+				"Au Dieu de Paix!",
+				"Sur la terre et dans le ciel,",
+				"Tout te loue, Emmanuel,",
+				"Pour tes bienfaits."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Tandis que s'éteint le jour,",
+				"La prière, ô Dieu d'amour!",
+				"Vers ton saint trône voilé,",
+				"Au fond du ciel étoilé,",
+				"Prend son essor."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Dans ton église, en tous lieux",
+				"Seigneur, sous les vastes cieux,",
+				"Rassemble tous tes enfants;",
+				"Rends-les courageux, vaillants",
+				"Sous ton drapeau"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Quand tu reviendras, Jésus,",
+				"Quand le mal ne sera plus,",
+				"Tu feras luire à nos yeux",
+				"L'aube du jour radieux",
+				"Qui luit là-haut. "
+			]
+		}
+	]
+}
+

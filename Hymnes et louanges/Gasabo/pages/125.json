@@ -1,0 +1,56 @@
+{
+	"stanzas":6,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Ô Saint-Esprit! Descends, descends ",
+				"Sur cette assemblée en prière",
+				"En nos coeurs faibles, languissants,",
+				"Répands ta force et ta lumière"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Ô Saint-Esprit! Dévoile-nous ",
+				"Nos interdits et nos idoles",
+				"Esprit de Dieu, saint et jaloux",
+				"Consume nos désirs frivoles"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Ô Saint-Esprit! à ta clarté",
+				"Nous voulons tous marcher sans crainte",
+				"Sur un chemin de saintété",
+				"Conduis-nous vers la cité sainte."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Ô Saint-Esprit! rends-nous vainqueurs ",
+				"Dans nos combats, dans nos détresses,",
+				"Et pour armer nos faibles coeurs",
+				"Verse en eux toutes tes richesses"
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Oui, pour rester toujours debout,",
+				"Ce qu'il nous faut, c'est ta puissance;",
+				"Par elle seule, jusqu'au bout",
+				"Nous lutterons sans défaillance."
+			]
+		},
+		{"label":"6",
+			"lines":[
+				"Ô Saint-Esprit! viens comme au jour",
+				"De la première Pentecôte,",
+				"Et par ta grâce, ô Dieu d'amour",
+				"Que ce lieu soit la chambre haute. "
+			]
+		}
+	]
+}
+

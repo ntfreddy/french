@@ -1,0 +1,40 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Avec zèle à ton école",
+				"Je viens, Seigneur Jésus,",
+				"Apprends-moi par ta Parole",
+				"À t'aimer toujours plus."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Ô Seigneur! parle-moi",
+				"De ton amour sublime.",
+				"Conduis-moi, sainte Victime.",
+				"Jésus, je suis à toi."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Chère école, à ta lumière",
+				"Je contemple la croix,",
+				"Je murmure ma prière,",
+				"J'entends le Roi des rois."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Parole du divin Maître,",
+				"Gloire de sa maison,",
+				"À mes yeux, tu fais paraître",
+				"Le céleste horizon. "
+			]
+		}
+	]
+}
+

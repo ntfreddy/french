@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Silence! Silence!",
+				"Un souffle descend :",
+				"Voici la présence",
+				"Du Dieu tout-puissant!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Silence! Le Maître",
+				"Parle avec amour",
+				"Et nous fait connaître",
+				"Sa paix en ce jour."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Silence! Silence!",
+				"Révérons ce lieu,",
+				"Oh! Que nulle offense",
+				"N'y soit faite à Dieu!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Silence! Silence!",
+				"Et recueillons-nous.",
+				"Dans la repentance",
+				"Prions à genoux."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Silence! Silence!",
+				"Moment solennel,",
+				"Où l'âme s'élance",
+				"Vers le Dieu du ciel! "
+			]
+		}
+	]
+}
+

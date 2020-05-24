@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Ô Dieu! toute ma prière",
+				"Et mon voeu le plus ardent,",
+				"C'est qu'en toi je trouve un Père,",
+				"Et que je sois ton enfant."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Je sais déjà que la vie",
+				"N'est heureuse qu'en ta paix;",
+				"Qu'autrement elle est remplie",
+				"De fautes et de regrets."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Que ta puissance m'attire",
+				"À Jésus, mon Rédempteur,",
+				"C'est en lui que je désire",
+				"Te consacrer tout mon coeur."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Que ton Esprit me remplisse",
+				"D'une pure et vive foi,",
+				"Et que mon âme obéisse,",
+				"Seigneur, à ta sainte loi. "
+			]
+		}
+	]
+}
+

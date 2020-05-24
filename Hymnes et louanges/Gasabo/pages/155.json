@@ -1,0 +1,30 @@
+{
+	"stanzas":2,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Ta voix, Jésus, nous dit à tous;",
+				"« Aimez-vous!",
+				"Gardez ma loi nouvelle, ",
+				"Aimez-vous! »",
+				"Loi sainte et belle, ",
+				"Jésus, nous l'entendrons,",
+				"Jésus, nous la suivrons. (bis)"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Ta mort, Jésus, a répété :",
+				"« Charité!",
+				"Pour réjouir la terre,",
+				"Charité! »",
+				"Sur le Calvaire,",
+				"Jésus nous t'entendrons,",
+				"Jésus nous te suivrons. (bis) "
+			]
+		}
+	]
+}
+

@@ -1,0 +1,59 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Vers toi monte notre hommage,",
+				"Fils de Dieu, puissant Sauveur,",
+				"Qui demeures d'âge en âge",
+				"Le refuge du pécheur."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Loué soit ton amour,",
+				"Loués soient à jamais",
+				"Ton nom, Jésus, ",
+				"Ta gloire et tes bienfaits,",
+				"Loué soit ton amour,",
+				"Loués soient à jamais",
+				"Ton nom, ta gloire et tes bienfaits!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"De toi la délivrance :",
+				"Tu payas notre rançon.",
+				"C'est en toi qu'est l'espérance,",
+				"La paix et la guérison."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Oh! Qu'heureux sous ta bannière",
+				"Est le peuple racheté",
+				"Qui marche, dans la lumière,",
+				"Vers la céleste cité."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Par ta divine Parole",
+				"Tu l'enseignes, tu l'instruis,",
+				"Et, par l'Esprit qui console,",
+				"Sûrement tu le conduis."
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Bientôt, glorieuse attente!",
+				"Tu combleras tous nos voeux :",
+				"Sur la nue étincelante,",
+				"Tu viendras à nous des cieux. "
+			]
+		}
+	]
+}
+

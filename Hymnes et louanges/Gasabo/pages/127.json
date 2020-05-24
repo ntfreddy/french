@@ -1,0 +1,48 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Saint-Esprit, que ta clarté",
+				"Vienne briller sur nos coeurs;",
+				"Et que ses rayons vainqueurs",
+				"Chassent toute obscurité."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Saint-Esprit, ô vérité!",
+				"Guide infaillible et divin,",
+				"Montre nous le droit chemin,",
+				"Courbe notre volonté."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Saint-Esprit, Consolateur,",
+				"Viens calmer tous nos effrois.",
+				"Apaise, à ta douce voix,",
+				"La révolte et la douleur."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Saint-Esprit, Libérateur",
+				"Dont la puissance est pour tous,",
+				"À jamais délivre-nous",
+				"Des liens de l'oppresseur."
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Saint-Esprit, ô toi qui sais",
+				"Combien chancellent nos pas!",
+				"Ne nous abandonne pas",
+				"Et conduis-nous dans la paix. "
+			]
+		}
+	]
+}
+

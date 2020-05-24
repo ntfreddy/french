@@ -1,0 +1,46 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Entendez-vous la dernière trompette",
+				"Qui retentit là-haut dans le saint lieu?",
+				"Alléluia ! le ciel entier s'apprête",
+				"À faire escorte au puissant Fils de Dieu."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Oh ! gloire, gloire à l'Éternel,",
+				"Gloire au Sauveur qui vient du ciel!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Il vient, il vient, bientôt il va paraître,",
+				"Le divin Roi, vêtu de majesté.",
+				"Les rachetés pourront le reconnaître",
+				"Et rendre hommage à sa grande bonté."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Et sur la nue, à la voix de l'archange,",
+				"Tous les chrétiens dans le tombeau couchés,",
+				"S'élèveront, immortelle phalange,",
+				"Avec les saints qui seront transmués."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Du jour sans fin, viens saluer l'aurore,",
+				"Sois dans la joie, ô peuple rachetés,",
+				"Le Roi des rois de sa gloire t'honore,",
+				"Il t'introduit dans la sainte cité. "
+			]
+		}
+	]
+}
+

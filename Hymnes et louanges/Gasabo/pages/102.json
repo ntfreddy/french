@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Ô Christ! dont l'âme sympathise",
+				"À l'humble amour des plus petits,",
+				"Tu reçois le coeur qui se brise",
+				"Ainsi qu'un vase de grand prix."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Sur ceux que le monde méprise,",
+				"Ton doux regard s'est abaissé;",
+				"Jemais ta forte main ne brise",
+				"Le roseau par le vent froissé."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Amour parfait que rien ne lasse",
+				"Tu l'offres au plus dégradé;",
+				"Tu fais surabonder la grâce",
+				"Où les péchés ont abondé."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Oh! pour tes souffrances suprêmes,",
+				"Pour tes pitiés, pour tes pardons,",
+				"Pour tout l'amour dont tu nous aimes,",
+				"Sauveur béni, nous t'adorons! "
+			]
+		}
+	]
+}
+

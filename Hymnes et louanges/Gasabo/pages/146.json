@@ -1,0 +1,32 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Mon âme, en doux transports fais éclater ta joie!",
+				"Oui, devant mon Sauveur, (bis)",
+				"Aux saints enfants de Dieu qu'aujourd'hui l'on me voie",
+				"Raconter mon bonheur! (bis)"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Jésus, le bon Berger, me tient sous sa houlette,",
+				"Et je connais sa voix, (bis)",
+				"Je suis en son amour et ma ioie est parfaite",
+				"Au sentier de ses lois. (bis)"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Quel est donc mon désir et ma plus chère attente,",
+				"O mon Roi, mon Seigneur! (bis)",
+				"Oh! c'est que toujours plus, par ta grâce puissante;",
+				"Tu règnes sur mon coeur! (bis) "
+			]
+		}
+	]
+}
+

@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Joyeusement, nous saluons",
+				"Le saint jour du Seigneur,",
+				"Avec bonheur nous adorons",
+				"Dieu notre Rédempteur."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Dans ta maison tous rassemblés,",
+				"Nous t'offrons notre coeur;",
+				"Reçois nos hommages sacrés,",
+				"Ô notre Dieu Sauveur!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Avec ton Église ici-bas,",
+				"Tous guidés par l'Esprit,",
+				"Nous prendrons part aux saints combats",
+				"Du Seigneur Jésus-Christ."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Salut, ô jour saint et béni!",
+				"Donné par le Seigneur",
+				"Où tout son peuple réuni",
+				"Le loue avec ferveur. "
+			]
+		}
+	]
+}
+

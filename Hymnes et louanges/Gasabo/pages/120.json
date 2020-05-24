@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Tenons nos lampes prêtes,",
+				"Chrétiens, préparons-nous.",
+				"Pour l'heure où les trompettes",
+				"Annonceront l'Époux."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Qu'à répondre on s'empresse,",
+				"Hosanna! Hosanna!",
+				"Et qu'avec allégresse",
+				"On chante Alléluia (bis) "
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Voici déjà les anges,",
+				"Avec eux les élus",
+				"Unissent leurs louanges",
+				"En l'honneur de Jésus."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Voici Jésus lui-même,",
+				"Puissant, victorieux!",
+				"De son pur diadème",
+				"L'éclat remplit les cieux."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Venez, bénis du Père,",
+				"Qui m'avez atttendu;",
+				"Entrez dans la lumière,",
+				"Le ciel vous est rendu. "
+			]
+		}
+	]
+}
+

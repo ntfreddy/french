@@ -1,0 +1,56 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Comme une terre altérée",
+				"Soupire après l'eau du ciel,",
+				"Nous appelons la rosée",
+				"De ta grâce, Emmanuel!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Fraîches rosées,",
+				"Descendez sur nous tous!",
+				"O divines ondées,",
+				"Venez, arrosez-nous !"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Descends, ô pluie abondante,",
+				"Coule à flots dans notre coeur,",
+				"Donne à l'âme languissante",
+				"Une nouvelle fraîcheur!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Ne laisse en nous rien d'aride",
+				"Qui ne soit fertilisé;",
+				"Que le coeur le plus avide",
+				"Soit pleinement arrosé!"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Oui, que les déserts fleurissent",
+				"Sous tes bienfaisantes eaux;",
+				"Que les lieux secs reverdissent",
+				"Et portent des fruits nouveaux!"
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Viens, ô salutaire pluie,",
+				"Esprit de grâce et de paix!",
+				"Répands en nous une vie",
+				"Qui ne tarisse jamais! "
+			]
+		}
+	]
+}
+

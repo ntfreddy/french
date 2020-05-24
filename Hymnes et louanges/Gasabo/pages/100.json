@@ -1,0 +1,53 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Lorsque dans ma souillure",
+				"Sans bonheur et sans paix,",
+				"Dans une voie impure,",
+				"Loin de Dieu je marchais,",
+				"Tout l'amour du Calvaire",
+				"À moi s'est révélé,",
+				"Terrassant l'adversaire,",
+				"Brisant mon coeur souillé."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"L'amour de Jésus m'est doux,",
+				"Chaque jour il m'est plus doux.",
+				"Amour qui me presse",
+				"D'inviter sans cesse",
+				"Tous au divin rendez-vous."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Cet amour fort et tendre",
+				"De mon divin Sauveur,",
+				"Oh! Je le veux répandre",
+				"Partout avec ardeur,",
+				"Parmi tous ceux dont l'âme",
+				"Lutte et soupire encor",
+				"Sous l'esclavage infâme",
+				"Du péché, de la mort."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Quand la foi, l'espérance",
+				"Passeront pour jamais,",
+				"De Christ, l'amour immense",
+				"Nous remplira de paix.",
+				"Objets de sa tendresse,",
+				"Les phalanges d'élus",
+				"Répéteront sans cesse",
+				"Tout l'amour de Jésus. "
+			]
+		}
+	]
+}
+

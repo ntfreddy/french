@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Frères, approchons-nous ensemble",
+				"De l'Éternel, notre Seigneur.",
+				"C'est son grand nom qui nous rassemble :",
+				"Égayons-nous à son honneur."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Loin des vains bruits de cette terre,",
+				"En repos ici recueillis,",
+				"Dans le celeste sanctuaire",
+				"Par la foi nous sommes admis."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Ensemble nous cherchons ta face",
+				"Et nous t'invoquons, Dieu Sauveur!",
+				"Que de ton Esprit l'efficace",
+				"Se répande dans notre coeur!"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Écoute-nous, ô notre Père!",
+				"Prête l'oreille à nos accents,",
+				"Et daigne exaucer la prière",
+				"Qu'en Jésus t'offrent tes enfants  "
+			]
+		}
+	]
+}
+

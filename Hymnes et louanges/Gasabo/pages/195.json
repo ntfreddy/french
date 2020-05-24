@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Demeure par ta grâce",
+				"Avec nous, Dieu Sauveur!",
+				"Quoi que l'ennemi fasse,",
+				"Veille sur notre coeur."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Que ta sainte Parole,",
+				"Chaque jour, ici-bas,",
+				"Soit la seule boussole",
+				"Qui dirige nos pas."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Éternelle lumière,",
+				"Que ta vive splendeur",
+				"Nous guide, nous éclaire",
+				"Et nous garde d'erreur."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Étends sur nous ton aile",
+				"Et demeure à jamais",
+				"Avec nous, Dieu fidèle!",
+				"Répands sur nous ta paix. "
+			]
+		}
+	]
+}
+

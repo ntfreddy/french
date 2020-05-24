@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"M'aimant... quand la route est obscure,",
+				"Jésus s,approche et me rassure;",
+				"Il me conduit par sa main sûre,",
+				"Dans son amour."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"M'aimant... d'un amour insondable,",
+				"Jésus de la gloire ineffable,",
+				"M'apporte joie intarissable,",
+				"Par son amour."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"M'aimant... pendant les jours d'orage",
+				"Quand mon ciel n'est qu'un noir nuage,",
+				"Jésus me sauve du naufrage,",
+				"Dans son amour."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"M'aimant... dans ce monde où tout passe",
+				"Où tout, comme un rêve s'efface,",
+				"Dans son coeur Jésus me fait place,",
+				"Dans son amour. "
+			]
+		}
+	]
+}
+
