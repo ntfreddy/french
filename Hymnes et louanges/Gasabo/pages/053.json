@@ -1,0 +1,56 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Faisons éclater notre joie,",
+				"Et louons notre bienfaiteur.",
+				"Le Père éternel nous envoie",
+				"Son bien-aimé Rédempteur.",
+				"En lui la suprême puissance",
+				"Se trouve avec l'infirmité ;",
+				"Une éternelle et pure essence",
+				"S'unit à notre humanité."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Il n'a pour palais qu'une étable,",
+				"Et qu'une crèche pour berceau ;",
+				"Mais cet enfant incomparable",
+				"Fait briller un astre nouveau.",
+				"À sa naissance les saints anges",
+				"Font ouïr leurs voix dans ces lieux ;",
+				"Ils disent, chantant ses louanges :",
+				"« Gloire soit à Dieu dans les cieux! »"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Mortels, le Maître du tonnerre ",
+				"Contre vous n'est plus irrité ;",
+				"La paix va régner sur la terre ;",
+				"Dieu pour vous est plein de bonté.",
+				"Joignons notre sainte harmonie",
+				"À leurs concerts mélodieux ;",
+				"Louons le Prince de la vie",
+				"Qui vient se montrer à nos yeux."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Approchons-nous avec les Mages",
+				"Du berceau de notre Sauveur ;",
+				"Rendons-lui nos justes hommages",
+				"Et présentons-lui notre coeur.",
+				"L'or et l'encens de l'Arabie",
+				"Plaisent bien moins à notre Roi",
+				"Que la sainteté de la vie,",
+				"Qu'un coeur plein d'amour et de foi. "
+			]
+		}
+	]
+}
+

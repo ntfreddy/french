@@ -1,0 +1,40 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Je ne sais pourquoi, dans sa grâce",
+				"Jésus m'a tant aimé,",
+				"Pourquoi par son sang il efface",
+				"Ma dette, mon péché."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Mais je sais qu'en lui j'ai la vie",
+				"Il m'a sauvé dans son amour;",
+				"Et gardé par sa main meurtrie,",
+				"J'attends l'heure de son retour."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Je ne sais comment la lumière",
+				"Éclaire tout mon coeur,",
+				"Comment je compris ma misère",
+				"Et reçus mon Sauveur."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Je ne sais quelle est la mesure",
+				"De joie et de douleur",
+				"Que pour moi, faible créature,",
+				"Réserve mon Sauveur. "
+			]
+		}
+	]
+}
+

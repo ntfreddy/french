@@ -1,0 +1,40 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Je veux chanter l'amour puissant",
+				"Qui sauve et qui délivre,",
+				"Qui remplit mon coeur maintenant",
+				"De joie et me fait vivre."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Je veux chanter, ",
+				"Chanter de tout mon coeur",
+				"L'amour de Dieu, ",
+				"L'amour de mon Sauveur."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Je veux chanter l'amour vainqueur,",
+				"Qui, malgré ma faiblesse,",
+				"Peut me donner, à moi, pécheur,",
+				"La victoire sans cesse."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Je veux chanter le tendre amour,",
+				"Qui dans les jours de peine",
+				"Rends le poids du chagrin moins lourd,",
+				"Console et rassérène. "
+			]
+		}
+	]
+}
+

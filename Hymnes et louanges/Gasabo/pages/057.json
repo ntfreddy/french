@@ -1,0 +1,64 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Divin Sauveur, toi qui vins sur la terre",
+				"Pour y mourir sur un infâme bois,",
+				"Le coeur ému, j'approche du Calvaire ;",
+				"Que ton Esprit m'enseigne à contempler ta croix!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Ta grâce infinie",
+				"Vaut mieux que la vie ;",
+				"Mon coeur s'attache à toi,",
+				"Pour te suivre, ô mon Roi!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Là, je puis voir la grandeur de l'abîme",
+				"Où, par amour, Jésus est descendu,",
+				"Et les tourments de la sainte Victime",
+				"Me disent qu'à jamais, sans Christ, j'étais perdu."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Mon seul refuge est dans sa meurtrissure;",
+				"Là, j'ai trouvé le pardon et la paix,",
+				"Et, sous le sang qui lava ma souillure,",
+				"Je puis de tout péché rester libre à jamais."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Autrefois seul, tombant de chute en chute,",
+				"J'étais vaincu par le grand tentateur;",
+				"Mais aujourd'hui mon Sauveur pour moi lutte,",
+				"Et son bras tout-puissant me rend plus que vainqueur."
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Jusqu'à la fin, Jésus, ma confiance",
+				"Sera toujours dans le sang de ta croix;",
+				"Scelle en mon coeur cette ferme assurance,",
+				"Et que toujours aussi j'obéisse à ta voix!"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"À toi je me livre, ",
+				"Pour toi, je veux vivre;",
+				"Jésus, de ton amour",
+				"Remplis-moi chaque jour! "
+			]
+		}
+	]
+}
+

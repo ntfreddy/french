@@ -1,0 +1,32 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Ô fils de Dieu! tu te laissas meurtrir,",
+				"Pour nos péchés, toi le Maitre du monde!",
+				"Ô tendre amour! ô charité profonde!",
+				"Pour nous sauver, Jésus, tu vins mourir. (bis)"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"À l'heure sombre, notre iniquité",
+				"Te fit souffrir les plus cruelles peines,",
+				"Ta mort brisa nos liens et nos chaines,",
+				"Et nous acquit grâce et félicité. (bis)"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Amen! Seigneur! Amen, puissance, honneur!",
+				"À toi, Jésus, gloire, sagesse, empire!",
+				"Puissent nos coeurs, sans se lasser, te dire :",
+				"Béni sois-tu, tout-puissant Rédempteur! (bis) "
+			]
+		}
+	]
+}
+

@@ -1,0 +1,56 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Jésus est notre ami suprême :",
+				"Oh! Quel amour!",
+				"Mieux qu'un tendre frère il nous aime :",
+				"Oh! Quel amour!",
+				"Ici, famille, amis, tout passe;",
+				"Seul il demeure, et, dans sa grâce,",
+				"De nous jamais il ne se lasse :",
+				"Oh! Quel amour!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Il est notre vie éternelle :",
+				"Oh! Quel amour!",
+				"Célébrons son oeuvre immortelle :",
+				"Oh! Quel amour!",
+				"Cherchant sa brebis égarée,",
+				"Dans le désert il l'a trouvée;",
+				"Au bercail il l'a ramenée :",
+				"Oh! Quel amour!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Il s'est offert en sacrifice :",
+				"Oh! Quel amour!",
+				"Nous bénir est tout son délice :",
+				"Oh! Quel amour!",
+				"Qu'à sa voix notre âme attentive,",
+				"Toujours en paix, jamais craintive,",
+				"Près de lui se repose et vive :",
+				"Oh! Quel amour!"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Seigneur Jésus, fais-nous comprendre",
+				"Tout ton amour !",
+				"Dans nos coeurs, oh! daigne répandre",
+				"Tout ton amour!",
+				"Que cet amour soit notre vie!",
+				"Qu'à jamais notre âme ravie",
+				"Savoure une joie infinie",
+				"En ton amour! "
+			]
+		}
+	]
+}
+

@@ -1,0 +1,40 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Je suis scellé pour la gloire,",
+				"J'avance vers mon pays;",
+				"Écoutez-tous mon histoire",
+				"Et l'amour de Jésus-Christ:"
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Jésus, mon ami suprême,",
+				"Sur moi veille, il l'a promis;",
+				"J'aime Jésus, Jésus m'aime",
+				"Comme un berger sa brebis."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"J'étais mort dans ma misère,",
+				"Sans Dieu, sans espoir, sans foi;",
+				"Un jour j'appris, ô mystère,",
+				"Que Jésus est mort pour moi!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Son amour, que rien n'arrête,",
+				"Brisa mon coeur endurci;",
+				"Maintenant ce coeur souhaite ",
+				"D'en guider d'autres vers Lui. "
+			]
+		}
+	]
+}
+

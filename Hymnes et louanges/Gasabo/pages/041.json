@@ -1,0 +1,38 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Gloire à toi, Dieu puissant!",
+				"D'un coeur reconnaissant,",
+				"Ton peuple saint te bénit en tous lieux.",
+				"Il vit par ton amour,",
+				"Et t'offre dans ce jour",
+				"Son chant, sa prière et ses voeux."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Gloire à toi, Jésus-Christ!",
+				"C'est la croix qui m'apprit",
+				"De ton amour le secret précieux.",
+				"Viens régner dans mon coeur!",
+				"Que ton amour, Seigneur,",
+				"Me régénère pour les cieux!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Gloire au divin Esprit",
+				"Qui du ciel descendit",
+				"Et, dans les coeurs, fit luire un nouveau jour!",
+				"Esprit du Dieu de paix,",
+				"Remplis-nous pour jamais",
+				"De foi, d'espérance et d'amour. "
+			]
+		}
+	]
+}
+

@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Un regard sur ta croix sanglante,",
+				"Jésus, fait déborder mon coeur",
+				"D'amour et de douleur poignante,",
+				"D'amour et d'éternel bonheur."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Tu seras seul toute ma gloire,",
+				"Car tout ce dont je me vantais",
+				"M'empêcherait encore de croire",
+				"Qu'en ta mort seule j'ai la paix."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Te donnerais-je quelques larmes,",
+				"Quelques soupirs et quelque amour?",
+				"Devant ta croix je rends les armes,",
+				"Prends-moi tout entier dès ce jour."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"À tes pieds, mon Sauveur, je jette",
+				"Ce que mon coeur aime le plus;",
+				"Oui, prends mon idole secrète;",
+				"Tu seras mon trésor, Jésus! "
+			]
+		}
+	]
+}
+

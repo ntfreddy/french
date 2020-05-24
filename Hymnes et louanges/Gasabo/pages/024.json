@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Alléluia! Louange à Dieu! ",
+				"Chrétiens, célébrons en tout lieu",
+				"Son nom et sa puissance!",
+				"Bénissons ce Dieu créateur,",
+				"Chantons son règne et sa grandeur,",
+				"Exaltons sa clémence!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Alléluia! Fils éternel!",
+				"Sauveur de l'homme criminel,",
+				"Reçois notre humble hommage!",
+				"Pénétré de ta charité,",
+				"Ton peuple, par toi racheté,",
+				"Te bénit d'âge en âge."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Alléluia! Céleste Esprit!",
+				"De notre coeur humble et contrit",
+				"Accepte la prière!",
+				"Qu'à toi seul enfin consacré,",
+				"Il soit à jamais pénétré",
+				"De ta vive lumière."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Alléluia! Dieu trois fois saint!",
+				"Que ton auguste nom soit craint",
+				"Par tout ce qui respire",
+				"Règne sur ton peuple à jamais,",
+				"Et que tout l'univers en paix",
+				"Adore ton empire! "
+			]
+		}
+	]
+}
+

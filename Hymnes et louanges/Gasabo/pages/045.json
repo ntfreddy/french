@@ -1,0 +1,58 @@
+{
+	"stanzas":5,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Oh! qu'il m'est doux de savoir que Dieu m'aime,",
+				"Qu'il a donné son Fils pour me sauver,",
+				"Que par Jésus, ô charité suprême! ",
+				"Il me pardonne et veut toujours m'aimer!",
+				"Que par Jésus, ô charité suprême! ",
+				"Il me pardonne et veut toujours m'aimer!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Oh! qu'il m'est doux de savoir que mon Père",
+				"De son amour m'accompagne en tous lieux,",
+				"Qu'il me bénit chaque jour sur la terre,",
+				"Qu'il va bientôt me rerevoir aux cieux!",
+				"Qu'il me bénit chaque jour sur la terre,",
+				"Qu'il va bientôt me rerevoir aux cieux!"
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Oh! qu'il m'est doux de penser à ta grâce,",
+				"Seigneur Jésus, mon Rédempteur, mon Roi,",
+				"Quand l'ennemi m'accuse et me menace,",
+				"Quand mes péchés s'élèvent contre moi!",
+				"Quand l'ennemi m'accuse et me menace,",
+				"Quand mes péchés s'élèvent contre moi!"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Quel doux repos et quelle paix profonde",
+				"Je trouve en toi, mon bien-aimé Sauveur,",
+				"Quand sur toi seul tout mon espoir se fonde,",
+				"Quand sur toi seul se repose mon coeur!",
+				"Quand sur toi seul tout mon espoir se fonde,",
+				"Quand sur toi seul se repose mon coeur! "
+			]
+		},
+		{"label":"5",
+			"lines":[
+				"Aussi je veux, tous les jours de ma vie,",
+				"Puissant ami, te suivre par la foi;",
+				"Mon seul désir et ma plus chère envie,",
+				"C'est de t'aimer et de vivre pour toi. ",
+				"Mon seul désir et ma plus chère envie,",
+				"C'est de t'aimer et de vivre pour toi. "
+			]
+		}
+	]
+}
+

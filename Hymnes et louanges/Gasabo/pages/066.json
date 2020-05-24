@@ -1,0 +1,40 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Adorable mystère,",
+				"Le fils du Roi des rois",
+				"Descendit sur la terre,",
+				"Mourut sur une croix."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Honneur, honneur et gloire",
+				"Au Sauveur, au Seigneur!",
+				"Honneur, joie et victoire,",
+				"Honneur, gloire au Sauveur!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Adorable mystère,",
+				"C'est pour moi qu'il mourut.",
+				"Il a pris ma misère,",
+				"Il m'offre le salut."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Adorable mystère,",
+				"Vous tous qui connaissez",
+				"Son pouvoir salutaire,",
+				"Adorez, bénissez! "
+			]
+		}
+	]
+}
+

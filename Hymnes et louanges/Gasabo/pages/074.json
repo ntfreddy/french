@@ -1,0 +1,38 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Sur cette terre,",
+				"Ô divin Frère!",
+				"Jésus tu vins subir la mort.",
+				"De moi, coupable",
+				"Et misérable,",
+				"Tu voulus partager le sort."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Ta croix bénie",
+				"Donne la vie,",
+				"C'est pour sauver que tu souffris.",
+				"Ton sacrifice",
+				"Est ma justice;",
+				"Pour les pécheurs tu répondis."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Ce saint mystère",
+				"Que je révère,",
+				"Oh! je ne pourrais le sonder.",
+				"Pour tout comprendre.",
+				"Il faut attendre;",
+				"Mais, Rédempteur! je puis t'aimer. "
+			]
+		}
+	]
+}
+

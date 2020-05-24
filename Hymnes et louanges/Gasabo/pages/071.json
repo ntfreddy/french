@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"O Christ! j'ai vu ton agonie,",
+				"Et mon âme a frémi d'horreur.",
+				"Oui, tu viens de perdre la vie,",
+				"Et c'est pour moi, pauvre pécheur."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"À ta mort la nature entière",
+				"Se répand en cris de douleur;",
+				"Le soleil cache sa lumière;",
+				"Les élus pleurent leur Sauveur."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Que ta mort, ô sainte victime!",
+				"Soit toujours présente à nos yeux.",
+				"Ton sang peut seul laver le crime;",
+				"Seul il peut nous ouvrir les cieux."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Ô Christ! ta charité profonde",
+				"Touche, pénètre notre coeur :",
+				"Tu meurs pour les péchés du monde;",
+				"Toi seul es notre Dieu Sauveur. "
+			]
+		}
+	]
+}
+

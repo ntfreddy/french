@@ -1,0 +1,32 @@
+{
+	"stanzas":3,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Jésus, agneau de Dieu! Du sang de l'alliance",
+				"Répandu sur la croix pour de pauvres pécheurs,",
+				"Jusqu'à la fin des temps durera ta puissance,",
+				"Et tous les rachetés seront plus que vainqueurs."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Le brigand converti trouva dans ce refuge,",
+				"Une pleine espérance à ses derniers moments;",
+				"Coupable comme lui, tremblant devant mon juge,",
+				"C'est là que j'ai cherché la fin de mes tourments."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Dans la sainte cité par mon Dieu préparée,",
+				"Je chanterai l'amour et le nom glorieux",
+				"Du berger qui chercha sa brebis égarée,",
+				"Et la prit dans ses bras pour la porter aux cieux. "
+			]
+		}
+	]
+}
+

@@ -1,0 +1,40 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Je la connais, cette joie excellente",
+				"Que ton Esprit, Jésus, met dans un coeur;",
+				"Je suis heureux, oui, mon âme est contente,",
+				"Puisque je sais qu'en toi j'ai mon Sauveur."
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Tu m'as aimé, moi, vile créature,",
+				"Jusqu'à t'offrir en victime pour moi;",
+				"Ton propre sang a lavé ma souillure,",
+				"Et, par ta mort, je suis vivant pour toi."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Que puis-je donc désirer sur la terre,",
+				"Puisque je suis l'obiet de ton amour;",
+				"Puisque ta grâce, ô Sauveur débonnaire,",
+				"Dès le matin me prévient chaque jour?"
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"Si je rencontre, en mon pèlerinage,",
+				"Sur mon sentier l'épreuve et le chagrin,",
+				"Puis-je oublier, durant ce court passage,",
+				"Que ton enfant n'est pas un orphelin? "
+			]
+		}
+	]
+}
+

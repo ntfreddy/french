@@ -1,0 +1,48 @@
+{
+	"stanzas":4,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"Ô bonne nouvelle!",
+				"Dieu donne en Jésus",
+				"La vie éternelle",
+				"Aux pécheurs perdus."
+			]
+		},
+		{"label":"Choeur",
+			"lines":[
+				"Puissance, richesse,",
+				"Force, gloire, honneur,",
+				"Louange et sagesse",
+				"À notre Sauveur!"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Victime innocente,",
+				"Jésus a porté",
+				"Sur la croix sanglante",
+				"Notre iniquité."
+			]
+		},
+		{"label":"3",
+			"lines":[
+				"Dans ses meurtrissures",
+				"Est notre pardon",
+				"Et dans ses blessures,",
+				"Notre guérison."
+			]
+		},
+		{"label":"4",
+			"lines":[
+				"En Christ la victoire",
+				"Et la sainteté,",
+				"La vie et la gloire",
+				"Pour l'éternité. "
+			]
+		}
+	]
+}
+

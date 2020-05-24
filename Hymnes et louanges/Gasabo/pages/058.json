@@ -1,0 +1,28 @@
+{
+	"stanzas":2,
+	"music": [
+	],
+	"lyrics": [
+		{"label":"1",
+			"lines":[
+				"De la divinité, plénitude ineffable!",
+				"De puissance et d'amour, trésor inépuisable, inépuisable!",
+				"Gloire du ciel ! Gloire du ciel!",
+				"Emmanuel! Emmanuel!",
+				"À genoux, dans ta paix, ton Eglise chérie",
+				"T'adore et s'humilie. (bis)"
+			]
+		},
+		{"label":"2",
+			"lines":[
+				"Ô Christ! Agneau de Dieu qui portas notre crime,",
+				"Sauveur compatissant, pure et sainte victime, sainte victime,",
+				"Dans la douleur, dans la douleur",
+				"Tu vins Seigneur, tu vins Seigneur!",
+				"À genoux, devant toi, ton Eglise ravie",
+				"T'adore et s'humilie. (bis) "
+			]
+		}
+	]
+}
+
